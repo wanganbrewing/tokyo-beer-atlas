@@ -1,0 +1,3222 @@
+[
+  {
+    "id": "bc-50",
+    "brand": "江口屋醸造所",
+    "brewpub": "古民家 江口屋",
+    "maker": "(株)かすみがうら 未来づくりカンパニー",
+    "location": "茨城県かすみがうら市",
+    "prefecture": "茨城県",
+    "beerCruiseUrl": "https://www.beer-cruise.net/beer/250918.html",
+    "sourceListUrl": "https://www.beer-cruise.net/beer/Kanto.html"
+  },
+  {
+    "id": "bc-49",
+    "brand": "TSUKUBA BREWERY",
+    "brewpub": "筑波山麓醸造所",
+    "maker": "(株)ペブルス",
+    "location": "茨城県つくば市",
+    "prefecture": "茨城県",
+    "beerCruiseUrl": "https://www.beer-cruise.net/beer/251109.html",
+    "sourceListUrl": "https://www.beer-cruise.net/beer/Kanto.html"
+  },
+  {
+    "id": "bc-48",
+    "brand": "Twin Peaks Mountain Brewing",
+    "brewpub": "Twin Peaks Mountain Brewing",
+    "maker": "Twin Peaks Mountain Brewing(同)",
+    "location": "茨城県つくば市",
+    "prefecture": "茨城県",
+    "beerCruiseUrl": "https://www.beer-cruise.net/beer/240811.html",
+    "sourceListUrl": "https://www.beer-cruise.net/beer/Kanto.html"
+  },
+  {
+    "id": "bc-52",
+    "brand": "牛久シャトー",
+    "brewpub": "牛久シャトー",
+    "maker": "牛久シャトー(株)",
+    "location": "茨城県牛久市",
+    "prefecture": "茨城県",
+    "beerCruiseUrl": "https://www.beer-cruise.net/beer/211203.html",
+    "sourceListUrl": "https://www.beer-cruise.net/beer/Kanto.html"
+  },
+  {
+    "id": "bc-53",
+    "brand": "麦と葡萄 牛久醸造場",
+    "brewpub": "タップルームなし",
+    "maker": "(株)麦と葡萄",
+    "location": "茨城県牛久市",
+    "prefecture": "茨城県",
+    "beerCruiseUrl": "https://www.beer-cruise.net/beer/220225.html",
+    "sourceListUrl": "https://www.beer-cruise.net/beer/Kanto.html"
+  },
+  {
+    "id": "bc-47",
+    "brand": "さかい河岸ブルワリー",
+    "brewpub": "タップルームなし",
+    "maker": "(株)安井商店",
+    "location": "茨城県境町",
+    "prefecture": "茨城県",
+    "beerCruiseUrl": "https://www.beer-cruise.net/beer/190127.html",
+    "sourceListUrl": "https://www.beer-cruise.net/beer/Kanto.html"
+  },
+  {
+    "id": "bc-46",
+    "brand": "結城麦酒",
+    "brewpub": "オリエンタルダイニング｢LOTUS｣",
+    "maker": "(株)結城麦酒",
+    "location": "茨城県結城市",
+    "prefecture": "茨城県",
+    "beerCruiseUrl": "https://www.beer-cruise.net/beer/191031.html",
+    "sourceListUrl": "https://www.beer-cruise.net/beer/Kanto.html"
+  },
+  {
+    "id": "bc-39",
+    "brand": "Gold Garden Brewery",
+    "brewpub": "タップルームなし",
+    "maker": "(株)鴨志田造園建設",
+    "location": "茨城県常陸太田市",
+    "prefecture": "茨城県",
+    "beerCruiseUrl": "https://www.beer-cruise.net/beer/Kanto.html",
+    "sourceListUrl": "https://www.beer-cruise.net/beer/Kanto.html"
+  },
+  {
+    "id": "bc-43",
+    "brand": "SENBA BREWERY",
+    "brewpub": "SENBA BREWERY&GRILL",
+    "maker": "(株)Brace Brewing",
+    "location": "茨城県水戸市",
+    "prefecture": "茨城県",
+    "beerCruiseUrl": "https://www.beer-cruise.net/beer/Kanto.html",
+    "sourceListUrl": "https://www.beer-cruise.net/beer/Kanto.html"
+  },
+  {
+    "id": "bc-44",
+    "brand": "ゆるうむブルーイング",
+    "brewpub": "SPA&ごはん ゆるうむ",
+    "maker": "日産部品茨城販売(株)",
+    "location": "茨城県水戸市",
+    "prefecture": "茨城県",
+    "beerCruiseUrl": "https://www.beer-cruise.net/beer/Kanto.html",
+    "sourceListUrl": "https://www.beer-cruise.net/beer/Kanto.html"
+  },
+  {
+    "id": "bc-42",
+    "brand": "元山町ブルワリー",
+    "brewpub": "元山町ビヤスタンド",
+    "maker": "元山町ブルワリー",
+    "location": "茨城県水戸市",
+    "prefecture": "茨城県",
+    "beerCruiseUrl": "https://www.beer-cruise.net/beer/Kanto.html",
+    "sourceListUrl": "https://www.beer-cruise.net/beer/Kanto.html"
+  },
+  {
+    "id": "bc-41",
+    "brand": "大工町醸造所",
+    "brewpub": "蒲焼割烹 ぬりや",
+    "maker": "(有)ぬりや",
+    "location": "茨城県水戸市",
+    "prefecture": "茨城県",
+    "beerCruiseUrl": "https://www.beer-cruise.net/beer/Kanto.html",
+    "sourceListUrl": "https://www.beer-cruise.net/beer/Kanto.html"
+  },
+  {
+    "id": "bc-37",
+    "brand": "やみぞ森林ビール",
+    "brewpub": "大子ブルワリー",
+    "maker": "大子森林物産(株)",
+    "location": "茨城県大子町",
+    "prefecture": "茨城県",
+    "beerCruiseUrl": "https://www.beer-cruise.net/beer/110707.html",
+    "sourceListUrl": "https://www.beer-cruise.net/beer/Kanto.html"
+  },
+  {
+    "id": "bc-45",
+    "brand": "Beach culture brewing",
+    "brewpub": "Beach culture brewing",
+    "maker": "Beach culture brewing",
+    "location": "茨城県大洗町",
+    "prefecture": "茨城県",
+    "beerCruiseUrl": "https://www.beer-cruise.net/beer/220317.html",
+    "sourceListUrl": "https://www.beer-cruise.net/beer/Kanto.html"
+  },
+  {
+    "id": "bc-40",
+    "brand": "常陸野ネストビール",
+    "brewpub": "利き酒処",
+    "maker": "木内酒造(資) 額田醸造所",
+    "location": "茨城県那珂市",
+    "prefecture": "茨城県",
+    "beerCruiseUrl": "https://www.beer-cruise.net/beer/100813.html",
+    "sourceListUrl": "https://www.beer-cruise.net/beer/Kanto.html"
+  },
+  {
+    "id": "bc-38",
+    "brand": "日立麦酒",
+    "brewpub": "日立麦酒醸造所",
+    "maker": "(株)ｾｶﾝﾄﾞｱｰｽｴﾝﾀｰﾃｲﾒﾝﾄ",
+    "location": "茨城県日立市",
+    "prefecture": "茨城県",
+    "beerCruiseUrl": "https://www.beer-cruise.net/beer/Kanto.html",
+    "sourceListUrl": "https://www.beer-cruise.net/beer/Kanto.html"
+  },
+  {
+    "id": "bc-51",
+    "brand": "トコシエ醸造",
+    "brewpub": "トコシエ醸造",
+    "maker": "トコシエ醸造(株)",
+    "location": "茨城県龍ケ崎市",
+    "prefecture": "茨城県",
+    "beerCruiseUrl": "https://www.beer-cruise.net/beer/Kanto.html",
+    "sourceListUrl": "https://www.beer-cruise.net/beer/Kanto.html"
+  },
+  {
+    "id": "bc-19",
+    "brand": "OCTONE Brewing",
+    "brewpub": "新工場",
+    "maker": "(同)オクトワン",
+    "location": "群馬県みなかみ町",
+    "prefecture": "群馬県",
+    "beerCruiseUrl": "https://www.beer-cruise.net/beer/Kanto.html",
+    "sourceListUrl": "https://www.beer-cruise.net/beer/Kanto.html"
+  },
+  {
+    "id": "bc-33",
+    "brand": "霧積ブルワリー",
+    "brewpub": "霧積ブルワリー",
+    "maker": "S&Co.(同)",
+    "location": "群馬県安中市",
+    "prefecture": "群馬県",
+    "beerCruiseUrl": "https://www.beer-cruise.net/beer/Kanto.html",
+    "sourceListUrl": "https://www.beer-cruise.net/beer/Kanto.html"
+  },
+  {
+    "id": "bc-26",
+    "brand": "ビアースマイル",
+    "brewpub": "ビアースマイル",
+    "maker": "ビアースマイル",
+    "location": "群馬県伊勢崎市",
+    "prefecture": "群馬県",
+    "beerCruiseUrl": "https://www.beer-cruise.net/beer/200123.html",
+    "sourceListUrl": "https://www.beer-cruise.net/beer/Kanto.html"
+  },
+  {
+    "id": "bc-21",
+    "brand": "ENDO BREWERY",
+    "brewpub": "ENDO BREWERY",
+    "maker": "(株)プロシード",
+    "location": "群馬県館林市",
+    "prefecture": "群馬県",
+    "beerCruiseUrl": "https://www.beer-cruise.net/beer/Kanto.html",
+    "sourceListUrl": "https://www.beer-cruise.net/beer/Kanto.html"
+  },
+  {
+    "id": "bc-25",
+    "brand": "CRAFT ALE CHIGIRA",
+    "brewpub": "タップルームなし",
+    "maker": "クラフト エール チギラ",
+    "location": "群馬県桐生市",
+    "prefecture": "群馬県",
+    "beerCruiseUrl": "https://www.beer-cruise.net/beer/Kanto.html",
+    "sourceListUrl": "https://www.beer-cruise.net/beer/Kanto.html"
+  },
+  {
+    "id": "bc-24",
+    "brand": "FARCRY BREWING",
+    "brewpub": "FARCRY BREWING & CAFE",
+    "maker": "(株)ｐｅｒｋ",
+    "location": "群馬県桐生市",
+    "prefecture": "群馬県",
+    "beerCruiseUrl": "https://www.beer-cruise.net/beer/210618.html",
+    "sourceListUrl": "https://www.beer-cruise.net/beer/Kanto.html"
+  },
+  {
+    "id": "bc-23",
+    "brand": "マリハナファクトリー",
+    "brewpub": "レストラン｢ブリュー｣",
+    "maker": "マリハナファクトリー(同)",
+    "location": "群馬県桐生市",
+    "prefecture": "群馬県",
+    "beerCruiseUrl": "https://www.beer-cruise.net/beer/Kanto.html",
+    "sourceListUrl": "https://www.beer-cruise.net/beer/Kanto.html"
+  },
+  {
+    "id": "bc-30",
+    "brand": "コタマブルワリー",
+    "brewpub": "コタマブルワリー",
+    "maker": "コタマファクトリー(株)",
+    "location": "群馬県高崎市",
+    "prefecture": "群馬県",
+    "beerCruiseUrl": "https://www.beer-cruise.net/beer/Kanto.html",
+    "sourceListUrl": "https://www.beer-cruise.net/beer/Kanto.html"
+  },
+  {
+    "id": "bc-29",
+    "brand": "シンキチ醸造所",
+    "brewpub": "シンキチ醸造所",
+    "maker": "シンキチ醸造所",
+    "location": "群馬県高崎市",
+    "prefecture": "群馬県",
+    "beerCruiseUrl": "https://www.beer-cruise.net/beer/170310_2.html",
+    "sourceListUrl": "https://www.beer-cruise.net/beer/Kanto.html"
+  },
+  {
+    "id": "bc-20",
+    "brand": "川場ビール",
+    "brewpub": "田園プラザ川場",
+    "maker": "(株)田園プラザ川場",
+    "location": "群馬県川場村",
+    "prefecture": "群馬県",
+    "beerCruiseUrl": "https://www.beer-cruise.net/beer/110524.html",
+    "sourceListUrl": "https://www.beer-cruise.net/beer/Kanto.html"
+  },
+  {
+    "id": "bc-27",
+    "brand": "テングビール",
+    "brewpub": "博多大衆酒場 幸ちゃん",
+    "maker": "(同)テングビール",
+    "location": "群馬県前橋市",
+    "prefecture": "群馬県",
+    "beerCruiseUrl": "https://www.beer-cruise.net/beer/Kanto.html",
+    "sourceListUrl": "https://www.beer-cruise.net/beer/Kanto.html"
+  },
+  {
+    "id": "bc-28",
+    "brand": "ルルルなビール",
+    "brewpub": "ルルルなビール",
+    "maker": "(株)ルルル",
+    "location": "群馬県前橋市",
+    "prefecture": "群馬県",
+    "beerCruiseUrl": "https://www.beer-cruise.net/beer/Kanto.html",
+    "sourceListUrl": "https://www.beer-cruise.net/beer/Kanto.html"
+  },
+  {
+    "id": "bc-35",
+    "brand": "草津温泉麦酒",
+    "brewpub": "タップルームなし",
+    "maker": "(株)草津温泉麦酒",
+    "location": "群馬県草津町",
+    "prefecture": "群馬県",
+    "beerCruiseUrl": "https://www.beer-cruise.net/beer/260108.html",
+    "sourceListUrl": "https://www.beer-cruise.net/beer/Kanto.html"
+  },
+  {
+    "id": "bc-22",
+    "brand": "ＣＨＲＯＡ（旧 呑龍夢麦酒）",
+    "brewpub": "ダニエルハウス",
+    "maker": "(株)夢麦酒太田",
+    "location": "群馬県太田市",
+    "prefecture": "群馬県",
+    "beerCruiseUrl": "https://www.beer-cruise.net/beer/100826_2.html",
+    "sourceListUrl": "https://www.beer-cruise.net/beer/Kanto.html"
+  },
+  {
+    "id": "bc-32",
+    "brand": "四万温泉エール",
+    "brewpub": "わしの屋酒店で販売",
+    "maker": "(株)小春日和 四万温泉エールファクトリー",
+    "location": "群馬県中之条町",
+    "prefecture": "群馬県",
+    "beerCruiseUrl": "https://www.beer-cruise.net/beer/120916_2.html",
+    "sourceListUrl": "https://www.beer-cruise.net/beer/Kanto.html"
+  },
+  {
+    "id": "bc-34",
+    "brand": "川原湯温泉醸造舎",
+    "brewpub": "笹湯カフェ",
+    "maker": "(株)アウグス･ブルワリー 川原湯温泉醸造場",
+    "location": "群馬県長野原町",
+    "prefecture": "群馬県",
+    "beerCruiseUrl": "https://www.beer-cruise.net/beer/Kanto.html",
+    "sourceListUrl": "https://www.beer-cruise.net/beer/Kanto.html"
+  },
+  {
+    "id": "bc-36",
+    "brand": "嬬恋高原ビール",
+    "brewpub": "嬬恋高原ブルワリー",
+    "maker": "(有)浅間高原麦酒",
+    "location": "群馬県嬬恋村",
+    "prefecture": "群馬県",
+    "beerCruiseUrl": "https://www.beer-cruise.net/beer/980815.html",
+    "sourceListUrl": "https://www.beer-cruise.net/beer/Kanto.html"
+  },
+  {
+    "id": "bc-31",
+    "brand": "上州富岡ブリュワリー",
+    "brewpub": "上州富岡ブリュワリー",
+    "maker": "(同)フィリア･ソフィア",
+    "location": "群馬県富岡市",
+    "prefecture": "群馬県",
+    "beerCruiseUrl": "https://www.beer-cruise.net/beer/230114.html",
+    "sourceListUrl": "https://www.beer-cruise.net/beer/Kanto.html"
+  },
+  {
+    "id": "bc-18",
+    "brand": "片品ブリューイング",
+    "brewpub": "タップルームなし",
+    "maker": "(同)ブルーメン",
+    "location": "群馬県片品村",
+    "prefecture": "群馬県",
+    "beerCruiseUrl": "https://www.beer-cruise.net/beer/221013.html",
+    "sourceListUrl": "https://www.beer-cruise.net/beer/Kanto.html"
+  },
+  {
+    "id": "bc-66",
+    "brand": "GECKO BEER",
+    "brewpub": "GECKO TAPROOM",
+    "maker": "(株)ムーンショット",
+    "location": "埼玉県さいたま市浦和区",
+    "prefecture": "埼玉県",
+    "beerCruiseUrl": "https://www.beer-cruise.net/beer/Kanto.html",
+    "sourceListUrl": "https://www.beer-cruise.net/beer/Kanto.html"
+  },
+  {
+    "id": "bc-65",
+    "brand": "U.B.P BREWERY",
+    "brewpub": "U.B.P BREWERY",
+    "maker": "(株)URAWA･BEER･PROJECT",
+    "location": "埼玉県さいたま市浦和区",
+    "prefecture": "埼玉県",
+    "beerCruiseUrl": "https://www.beer-cruise.net/beer/250116.html",
+    "sourceListUrl": "https://www.beer-cruise.net/beer/Kanto.html"
+  },
+  {
+    "id": "bc-68",
+    "brand": "キッチン田島",
+    "brewpub": "キッチン田島",
+    "maker": "日本総合住生活(株)",
+    "location": "埼玉県さいたま市桜区",
+    "prefecture": "埼玉県",
+    "beerCruiseUrl": "https://www.beer-cruise.net/beer/Kanto.html",
+    "sourceListUrl": "https://www.beer-cruise.net/beer/Kanto.html"
+  },
+  {
+    "id": "bc-67",
+    "brand": "氷川ブリュワリー",
+    "brewpub": "ＢＡＲ 氷川の杜",
+    "maker": "(株)氷川ブリュワリー",
+    "location": "埼玉県さいたま市大宮区",
+    "prefecture": "埼玉県",
+    "beerCruiseUrl": "https://www.beer-cruise.net/beer/140806.html",
+    "sourceListUrl": "https://www.beer-cruise.net/beer/Kanto.html"
+  },
+  {
+    "id": "bc-64",
+    "brand": "AQUWA brew works",
+    "brewpub": "AQUWA brew works",
+    "maker": "AQUWA brew works",
+    "location": "埼玉県さいたま市南区",
+    "prefecture": "埼玉県",
+    "beerCruiseUrl": "https://www.beer-cruise.net/beer/Kanto.html",
+    "sourceListUrl": "https://www.beer-cruise.net/beer/Kanto.html"
+  },
+  {
+    "id": "bc-81",
+    "brand": "Teenage Brewing",
+    "brewpub": "Teenage Brewing",
+    "maker": "(株)キルク",
+    "location": "埼玉県ときがわ町",
+    "prefecture": "埼玉県",
+    "beerCruiseUrl": "https://www.beer-cruise.net/beer/230615.html",
+    "sourceListUrl": "https://www.beer-cruise.net/beer/Kanto.html"
+  },
+  {
+    "id": "bc-80",
+    "brand": "発泡酒 武蔵野",
+    "brewpub": "タップルームなし",
+    "maker": "麻原酒造(株) 越生ブリュワリー",
+    "location": "埼玉県越生町",
+    "prefecture": "埼玉県",
+    "beerCruiseUrl": "https://www.beer-cruise.net/beer/120916.html",
+    "sourceListUrl": "https://www.beer-cruise.net/beer/Kanto.html"
+  },
+  {
+    "id": "bc-56",
+    "brand": "NOMENDO BREW STAND",
+    "brewpub": "NOMENDO BREW STAND",
+    "maker": "(株)NOMENDO",
+    "location": "埼玉県越谷市",
+    "prefecture": "埼玉県",
+    "beerCruiseUrl": "https://www.beer-cruise.net/beer/Kanto.html",
+    "sourceListUrl": "https://www.beer-cruise.net/beer/Kanto.html"
+  },
+  {
+    "id": "bc-69",
+    "brand": "加須麦酒",
+    "brewpub": "加須麦酒",
+    "maker": "加須麦酒(株)",
+    "location": "埼玉県加須市",
+    "prefecture": "埼玉県",
+    "beerCruiseUrl": "https://www.beer-cruise.net/beer/240628.html",
+    "sourceListUrl": "https://www.beer-cruise.net/beer/Kanto.html"
+  },
+  {
+    "id": "bc-86",
+    "brand": "ベクターブルーイング",
+    "brewpub": "タップルームなし",
+    "maker": "ライナ(株) 寄居工場",
+    "location": "埼玉県寄居町",
+    "prefecture": "埼玉県",
+    "beerCruiseUrl": "https://www.beer-cruise.net/beer/Kanto.html",
+    "sourceListUrl": "https://www.beer-cruise.net/beer/Kanto.html"
+  },
+  {
+    "id": "bc-62",
+    "brand": "WILLIAMS Brewery",
+    "brewpub": "WILLIAMS BROOKLYN RESTAURANT",
+    "maker": "(株)WILLIAMS",
+    "location": "埼玉県久喜市",
+    "prefecture": "埼玉県",
+    "beerCruiseUrl": "https://www.beer-cruise.net/beer/Kanto.html",
+    "sourceListUrl": "https://www.beer-cruise.net/beer/Kanto.html"
+  },
+  {
+    "id": "bc-75",
+    "brand": "hazy labo",
+    "brewpub": "hazy labo",
+    "maker": "(同)hazy labo",
+    "location": "埼玉県狭山市",
+    "prefecture": "埼玉県",
+    "beerCruiseUrl": "https://www.beer-cruise.net/beer/Kanto.html",
+    "sourceListUrl": "https://www.beer-cruise.net/beer/Kanto.html"
+  },
+  {
+    "id": "bc-76",
+    "brand": "koko brew TOKYO",
+    "brewpub": "タップルームなし",
+    "maker": "(株)SHIBATAYA Brewery & Distillery",
+    "location": "埼玉県狭山市",
+    "prefecture": "埼玉県",
+    "beerCruiseUrl": "https://www.beer-cruise.net/beer/Kanto.html",
+    "sourceListUrl": "https://www.beer-cruise.net/beer/Kanto.html"
+  },
+  {
+    "id": "bc-55",
+    "brand": "AKANUMA ROMAN BREWING 旧 Maruko Brewing",
+    "brewpub": "AKANUMA ROMAN BREWING 旧 Maruko Brewing",
+    "maker": "AKANUMA ROMAN BREWING 旧 Maruko Brewing",
+    "location": "埼玉県春日部市",
+    "prefecture": "埼玉県",
+    "beerCruiseUrl": "https://www.beer-cruise.net/beer/250620.html",
+    "sourceListUrl": "https://www.beer-cruise.net/beer/Kanto.html"
+  },
+  {
+    "id": "bc-58",
+    "brand": "UNLOCK Brew BASE",
+    "brewpub": "UNLOCK Brew BASE",
+    "maker": "(株)TABANA",
+    "location": "埼玉県春日部市",
+    "prefecture": "埼玉県",
+    "beerCruiseUrl": "https://www.beer-cruise.net/beer/Kanto.html",
+    "sourceListUrl": "https://www.beer-cruise.net/beer/Kanto.html"
+  },
+  {
+    "id": "bc-74",
+    "brand": "所沢ビール",
+    "brewpub": "タップルームなし",
+    "maker": "所沢ビール(株)",
+    "location": "埼玉県所沢市",
+    "prefecture": "埼玉県",
+    "beerCruiseUrl": "https://www.beer-cruise.net/beer/140209.html",
+    "sourceListUrl": "https://www.beer-cruise.net/beer/Kanto.html"
+  },
+  {
+    "id": "bc-83",
+    "brand": "麦雑穀工房",
+    "brewpub": "麦雑穀工房マイクロブルワリー",
+    "maker": "(同)麦雑穀工房",
+    "location": "埼玉県小川町",
+    "prefecture": "埼玉県",
+    "beerCruiseUrl": "https://www.beer-cruise.net/beer/200206.html",
+    "sourceListUrl": "https://www.beer-cruise.net/beer/Kanto.html"
+  },
+  {
+    "id": "bc-72",
+    "brand": "新座クラフト",
+    "brewpub": "タップルームなし",
+    "maker": "(株)システムアドバンス",
+    "location": "埼玉県新座市",
+    "prefecture": "埼玉県",
+    "beerCruiseUrl": "https://www.beer-cruise.net/beer/250323.html",
+    "sourceListUrl": "https://www.beer-cruise.net/beer/Kanto.html"
+  },
+  {
+    "id": "bc-82",
+    "brand": "3on3 Fukaya",
+    "brewpub": "3on3 Fukaya",
+    "maker": "セイフル(株)",
+    "location": "埼玉県深谷市",
+    "prefecture": "埼玉県",
+    "beerCruiseUrl": "https://www.beer-cruise.net/beer/Kanto.html",
+    "sourceListUrl": "https://www.beer-cruise.net/beer/Kanto.html"
+  },
+  {
+    "id": "bc-73",
+    "brand": "ＣＯＥＤＯ",
+    "brewpub": "コエドブルワリー･ザ･レストラン",
+    "maker": "(株)協同商事 COEDO BREWERY",
+    "location": "埼玉県川越市",
+    "prefecture": "埼玉県",
+    "beerCruiseUrl": "https://www.beer-cruise.net/beer/Kanto.html",
+    "sourceListUrl": "https://www.beer-cruise.net/beer/Kanto.html"
+  },
+  {
+    "id": "bc-61",
+    "brand": "GROW BREW HOUSE",
+    "brewpub": "GROW BREW HOUSE タップルーム",
+    "maker": "ネイバー＆ブラザーズ(株)",
+    "location": "埼玉県川口市",
+    "prefecture": "埼玉県",
+    "beerCruiseUrl": "https://www.beer-cruise.net/beer/190726.html",
+    "sourceListUrl": "https://www.beer-cruise.net/beer/Kanto.html"
+  },
+  {
+    "id": "bc-60",
+    "brand": "ぬとりブルーイング",
+    "brewpub": "麦酒処ぬとり",
+    "maker": "(同)ぬとり",
+    "location": "埼玉県川口市",
+    "prefecture": "埼玉県",
+    "beerCruiseUrl": "https://www.beer-cruise.net/beer/210719.html",
+    "sourceListUrl": "https://www.beer-cruise.net/beer/Kanto.html"
+  },
+  {
+    "id": "bc-57",
+    "brand": "星野製作所",
+    "brewpub": "タップルームなし",
+    "maker": "星野製作所",
+    "location": "埼玉県川口市",
+    "prefecture": "埼玉県",
+    "beerCruiseUrl": "https://www.beer-cruise.net/beer/190418.html",
+    "sourceListUrl": "https://www.beer-cruise.net/beer/Kanto.html"
+  },
+  {
+    "id": "bc-59",
+    "brand": "川口ブルワリー",
+    "brewpub": "川口ブルワリー",
+    "maker": "(株)アライ",
+    "location": "埼玉県川口市",
+    "prefecture": "埼玉県",
+    "beerCruiseUrl": "https://www.beer-cruise.net/beer/160229.html",
+    "sourceListUrl": "https://www.beer-cruise.net/beer/Kanto.html"
+  },
+  {
+    "id": "bc-54",
+    "brand": "BIATORA bistro＆brewery",
+    "brewpub": "BIATORA bistro＆brewery",
+    "maker": "(株)B.GOAT BIATORA",
+    "location": "埼玉県草加市",
+    "prefecture": "埼玉県",
+    "beerCruiseUrl": "https://www.beer-cruise.net/beer/Kanto.html",
+    "sourceListUrl": "https://www.beer-cruise.net/beer/Kanto.html"
+  },
+  {
+    "id": "bc-87",
+    "brand": "Fest365",
+    "brewpub": "酒づくりの森",
+    "maker": "(株)矢尾本店",
+    "location": "埼玉県秩父市",
+    "prefecture": "埼玉県",
+    "beerCruiseUrl": "https://www.beer-cruise.net/beer/230316.html",
+    "sourceListUrl": "https://www.beer-cruise.net/beer/Kanto.html"
+  },
+  {
+    "id": "bc-88",
+    "brand": "秩父麦酒",
+    "brewpub": "Mahollo BAR.",
+    "maker": "(同)BEAR MEET BEER",
+    "location": "埼玉県秩父市",
+    "prefecture": "埼玉県",
+    "beerCruiseUrl": "https://www.beer-cruise.net/beer/171215.html",
+    "sourceListUrl": "https://www.beer-cruise.net/beer/Kanto.html"
+  },
+  {
+    "id": "bc-77",
+    "brand": "ＣＯＥＤＯ",
+    "brewpub": "タップルームなし",
+    "maker": "(株)協同商事 COEDOｸﾗﾌﾄﾋﾞｰﾙ醸造所",
+    "location": "埼玉県東松山市",
+    "prefecture": "埼玉県",
+    "beerCruiseUrl": "https://www.beer-cruise.net/beer/161202.html",
+    "sourceListUrl": "https://www.beer-cruise.net/beer/Kanto.html"
+  },
+  {
+    "id": "bc-63",
+    "brand": "白岡ビール",
+    "brewpub": "タップルームなし",
+    "maker": "白岡ビール",
+    "location": "埼玉県白岡市",
+    "prefecture": "埼玉県",
+    "beerCruiseUrl": "https://www.beer-cruise.net/beer/Kanto.html",
+    "sourceListUrl": "https://www.beer-cruise.net/beer/Kanto.html"
+  },
+  {
+    "id": "bc-79",
+    "brand": "CARVAAN BREWERY",
+    "brewpub": "CARVAAN BREWERY & RESTAURANT",
+    "maker": "(株)FAR EAST",
+    "location": "埼玉県飯能市",
+    "prefecture": "埼玉県",
+    "beerCruiseUrl": "https://www.beer-cruise.net/beer/170913.html",
+    "sourceListUrl": "https://www.beer-cruise.net/beer/Kanto.html"
+  },
+  {
+    "id": "bc-70",
+    "brand": "SHIKI BEER",
+    "brewpub": "SHIKI BEER",
+    "maker": "(株)Y.craft",
+    "location": "埼玉県富士見市",
+    "prefecture": "埼玉県",
+    "beerCruiseUrl": "https://www.beer-cruise.net/beer/260103.html",
+    "sourceListUrl": "https://www.beer-cruise.net/beer/Kanto.html"
+  },
+  {
+    "id": "bc-71",
+    "brand": "富士見麦酒醸造所",
+    "brewpub": "鶴瀬クラフトダイニング",
+    "maker": "(株)リキッド",
+    "location": "埼玉県富士見市",
+    "prefecture": "埼玉県",
+    "beerCruiseUrl": "https://www.beer-cruise.net/beer/Kanto.html",
+    "sourceListUrl": "https://www.beer-cruise.net/beer/Kanto.html"
+  },
+  {
+    "id": "bc-85",
+    "brand": "HopGear Brewing",
+    "brewpub": "タップルームなし",
+    "maker": "(有)堀口アールエム",
+    "location": "埼玉県本庄市",
+    "prefecture": "埼玉県",
+    "beerCruiseUrl": "https://www.beer-cruise.net/beer/211231.html",
+    "sourceListUrl": "https://www.beer-cruise.net/beer/Kanto.html"
+  },
+  {
+    "id": "bc-84",
+    "brand": "本庄銀座ブルワリー",
+    "brewpub": "本庄銀座ブルワリー",
+    "maker": "本庄銀座ブルワリー",
+    "location": "埼玉県本庄市",
+    "prefecture": "埼玉県",
+    "beerCruiseUrl": "https://www.beer-cruise.net/beer/240317.html",
+    "sourceListUrl": "https://www.beer-cruise.net/beer/Kanto.html"
+  },
+  {
+    "id": "bc-78",
+    "brand": "ｳｨﾝﾀｰﾗﾝﾄﾞﾌﾞﾙﾜﾘｰ",
+    "brewpub": "タップルームなし",
+    "maker": "ｳｨﾝﾀｰﾗﾝﾄﾞﾌﾞﾙﾜﾘｰ(同)",
+    "location": "埼玉県毛呂山町",
+    "prefecture": "埼玉県",
+    "beerCruiseUrl": "https://www.beer-cruise.net/beer/Kanto.html",
+    "sourceListUrl": "https://www.beer-cruise.net/beer/Kanto.html"
+  },
+  {
+    "id": "bc-285",
+    "brand": "GRANDLINE BREWING",
+    "brewpub": "GRANDLINE BREWING",
+    "maker": "(株)ステイハングリー",
+    "location": "神奈川県横須賀市",
+    "prefecture": "神奈川県",
+    "beerCruiseUrl": "https://www.beer-cruise.net/beer/Kanto2.html",
+    "sourceListUrl": "https://www.beer-cruise.net/beer/Kanto2.html"
+  },
+  {
+    "id": "bc-283",
+    "brand": "WHITE DOG BREWING",
+    "brewpub": "WHITE DOG BREWING URAGA",
+    "maker": "浦賀ビール(同)",
+    "location": "神奈川県横須賀市",
+    "prefecture": "神奈川県",
+    "beerCruiseUrl": "https://www.beer-cruise.net/beer/Kanto2.html",
+    "sourceListUrl": "https://www.beer-cruise.net/beer/Kanto2.html"
+  },
+  {
+    "id": "bc-286",
+    "brand": "横須賀ビール",
+    "brewpub": "横須賀ビール",
+    "maker": "(有)たのし屋本舗",
+    "location": "神奈川県横須賀市",
+    "prefecture": "神奈川県",
+    "beerCruiseUrl": "https://www.beer-cruise.net/beer/170310.html",
+    "sourceListUrl": "https://www.beer-cruise.net/beer/Kanto2.html"
+  },
+  {
+    "id": "bc-287",
+    "brand": "三浦ペニンシュラビール",
+    "brewpub": "タップルームなし",
+    "maker": "三浦ペニンシュラビール(株)",
+    "location": "神奈川県横須賀市",
+    "prefecture": "神奈川県",
+    "beerCruiseUrl": "https://www.beer-cruise.net/beer/Kanto2.html",
+    "sourceListUrl": "https://www.beer-cruise.net/beer/Kanto2.html"
+  },
+  {
+    "id": "bc-284",
+    "brand": "法龍山麦酒",
+    "brewpub": "法龍山麦酒",
+    "maker": "(株)法龍山麦酒",
+    "location": "神奈川県横須賀市",
+    "prefecture": "神奈川県",
+    "beerCruiseUrl": "https://www.beer-cruise.net/beer/Kanto2.html",
+    "sourceListUrl": "https://www.beer-cruise.net/beer/Kanto2.html"
+  },
+  {
+    "id": "bc-275",
+    "brand": "横濱金沢ブリュワリー",
+    "brewpub": "La Fusion 菜na",
+    "maker": "(有)グローバルフュージョン",
+    "location": "神奈川県横浜市金沢区",
+    "prefecture": "神奈川県",
+    "beerCruiseUrl": "https://www.beer-cruise.net/beer/160812.html",
+    "sourceListUrl": "https://www.beer-cruise.net/beer/Kanto2.html"
+  },
+  {
+    "id": "bc-276",
+    "brand": "南横浜ビール研究所",
+    "brewpub": "南横浜ビール研究所",
+    "maker": "(株)麦風堂",
+    "location": "神奈川県横浜市金沢区",
+    "prefecture": "神奈川県",
+    "beerCruiseUrl": "https://www.beer-cruise.net/beer/160430.html",
+    "sourceListUrl": "https://www.beer-cruise.net/beer/Kanto2.html"
+  },
+  {
+    "id": "bc-281",
+    "brand": "BAY BREWING YOKOHAMA",
+    "brewpub": "BAY BREWING YOKOHAMA",
+    "maker": "横浜ベイブルーイング(株) 戸塚工場",
+    "location": "神奈川県横浜市戸塚区",
+    "prefecture": "神奈川県",
+    "beerCruiseUrl": "https://www.beer-cruise.net/beer/161026.html",
+    "sourceListUrl": "https://www.beer-cruise.net/beer/Kanto2.html"
+  },
+  {
+    "id": "bc-278",
+    "brand": "Roto Brewery",
+    "brewpub": "天空",
+    "maker": "(株)ハチミツ",
+    "location": "神奈川県横浜市港南区",
+    "prefecture": "神奈川県",
+    "beerCruiseUrl": "https://www.beer-cruise.net/beer/Kanto2.html",
+    "sourceListUrl": "https://www.beer-cruise.net/beer/Kanto2.html"
+  },
+  {
+    "id": "bc-266",
+    "brand": "２５４ＢｅｅＲ",
+    "brewpub": "254BeeR & Restaurant",
+    "maker": "(株)Ｎ-１",
+    "location": "神奈川県横浜市神奈川区",
+    "prefecture": "神奈川県",
+    "beerCruiseUrl": "https://www.beer-cruise.net/beer/210729.html",
+    "sourceListUrl": "https://www.beer-cruise.net/beer/Kanto2.html"
+  },
+  {
+    "id": "bc-268",
+    "brand": "THRASH ZONE",
+    "brewpub": "ビアバー THRASH ZONE",
+    "maker": "ﾋﾞｱ･ﾄﾞﾘﾝｷﾝｸﾞ･ｲﾝﾀｰﾅｼｮﾅﾙ(株)",
+    "location": "神奈川県横浜市神奈川区",
+    "prefecture": "神奈川県",
+    "beerCruiseUrl": "https://www.beer-cruise.net/beer/120915.html",
+    "sourceListUrl": "https://www.beer-cruise.net/beer/Kanto2.html"
+  },
+  {
+    "id": "bc-265",
+    "brand": "浦島ブルワリー",
+    "brewpub": "浦島ブルワリー",
+    "maker": "浦島ブルワリー",
+    "location": "神奈川県横浜市神奈川区",
+    "prefecture": "神奈川県",
+    "beerCruiseUrl": "https://www.beer-cruise.net/beer/Kanto2.html",
+    "sourceListUrl": "https://www.beer-cruise.net/beer/Kanto2.html"
+  },
+  {
+    "id": "bc-267",
+    "brand": "CAMBUSA",
+    "brewpub": "CAMBUSA",
+    "maker": "(株)ブォナフェニーチェ",
+    "location": "神奈川県横浜市西区",
+    "prefecture": "神奈川県",
+    "beerCruiseUrl": "https://www.beer-cruise.net/beer/Kanto2.html",
+    "sourceListUrl": "https://www.beer-cruise.net/beer/Kanto2.html"
+  },
+  {
+    "id": "bc-282",
+    "brand": "YUMEGAOKA SUNDAY BREWING",
+    "brewpub": "YUMEGAOKA SUNDAY BREWING",
+    "maker": "(株)スイベルアンドノット",
+    "location": "神奈川県横浜市泉区",
+    "prefecture": "神奈川県",
+    "beerCruiseUrl": "https://www.beer-cruise.net/beer/Kanto2.html",
+    "sourceListUrl": "https://www.beer-cruise.net/beer/Kanto2.html"
+  },
+  {
+    "id": "bc-270",
+    "brand": "NUMBER NINE BREWERY",
+    "brewpub": "QUAYS pacific grill",
+    "maker": "(株)ＨＵＧＥ",
+    "location": "神奈川県横浜市中区",
+    "prefecture": "神奈川県",
+    "beerCruiseUrl": "https://www.beer-cruise.net/beer/191106.html",
+    "sourceListUrl": "https://www.beer-cruise.net/beer/Kanto2.html"
+  },
+  {
+    "id": "bc-271",
+    "brand": "REVO BREWING",
+    "brewpub": "ブルワリーレストランREVO BREWING",
+    "maker": "(株)トリプルアール",
+    "location": "神奈川県横浜市中区",
+    "prefecture": "神奈川県",
+    "beerCruiseUrl": "https://www.beer-cruise.net/beer/190927.html",
+    "sourceListUrl": "https://www.beer-cruise.net/beer/Kanto2.html"
+  },
+  {
+    "id": "bc-273",
+    "brand": "The Bliss Brewery",
+    "brewpub": "THE BLISS BREWERY & DINING",
+    "maker": "(株)日本セレモニー",
+    "location": "神奈川県横浜市中区",
+    "prefecture": "神奈川県",
+    "beerCruiseUrl": "https://www.beer-cruise.net/beer/Kanto2.html",
+    "sourceListUrl": "https://www.beer-cruise.net/beer/Kanto2.html"
+  },
+  {
+    "id": "bc-269",
+    "brand": "ビール工房Spica",
+    "brewpub": "Brewpub Ergo bibamus",
+    "maker": "ビール工房スピカ",
+    "location": "神奈川県横浜市中区",
+    "prefecture": "神奈川県",
+    "beerCruiseUrl": "https://www.beer-cruise.net/beer/191018.html",
+    "sourceListUrl": "https://www.beer-cruise.net/beer/Kanto2.html"
+  },
+  {
+    "id": "bc-274",
+    "brand": "横浜ビール",
+    "brewpub": "SulPonte 驛の食卓",
+    "maker": "(株)横浜ビール",
+    "location": "神奈川県横浜市中区",
+    "prefecture": "神奈川県",
+    "beerCruiseUrl": "https://www.beer-cruise.net/beer/020809.html",
+    "sourceListUrl": "https://www.beer-cruise.net/beer/Kanto2.html"
+  },
+  {
+    "id": "bc-272",
+    "brand": "里武士 馬車道",
+    "brewpub": "里武士 馬車道",
+    "maker": "Anglo Japanese Brewing Company(同)",
+    "location": "神奈川県横浜市中区",
+    "prefecture": "神奈川県",
+    "beerCruiseUrl": "https://www.beer-cruise.net/beer/250627.html",
+    "sourceListUrl": "https://www.beer-cruise.net/beer/Kanto2.html"
+  },
+  {
+    "id": "bc-279",
+    "brand": "Yellow Monkey Brewing",
+    "brewpub": "Yellow Monkey Brewing",
+    "maker": "イエローモンキー ブリューイング(株)",
+    "location": "神奈川県横浜市都筑区",
+    "prefecture": "神奈川県",
+    "beerCruiseUrl": "https://www.beer-cruise.net/beer/251129.html",
+    "sourceListUrl": "https://www.beer-cruise.net/beer/Kanto2.html"
+  },
+  {
+    "id": "bc-280",
+    "brand": "ミツメビール販売所 旧 OIMA CORNER",
+    "brewpub": "タップルームなし",
+    "maker": "(同)BLITZER",
+    "location": "神奈川県横浜市都筑区",
+    "prefecture": "神奈川県",
+    "beerCruiseUrl": "https://www.beer-cruise.net/beer/Kanto2.html",
+    "sourceListUrl": "https://www.beer-cruise.net/beer/Kanto2.html"
+  },
+  {
+    "id": "bc-277",
+    "brand": "TDM1874 Brewery",
+    "brewpub": "星天qlay",
+    "maker": "(株)坂口屋",
+    "location": "神奈川県横浜市保土ケ谷区",
+    "prefecture": "神奈川県",
+    "beerCruiseUrl": "https://www.beer-cruise.net/beer/Kanto2.html",
+    "sourceListUrl": "https://www.beer-cruise.net/beer/Kanto2.html"
+  },
+  {
+    "id": "bc-306",
+    "brand": "Better life with upcycle",
+    "brewpub": "タップルームなし",
+    "maker": "(株)栄屋製パン",
+    "location": "神奈川県海老名市",
+    "prefecture": "神奈川県",
+    "beerCruiseUrl": "https://www.beer-cruise.net/beer/251102.html",
+    "sourceListUrl": "https://www.beer-cruise.net/beer/Kanto2.html"
+  },
+  {
+    "id": "bc-305",
+    "brand": "EBINA BEER",
+    "brewpub": "EBINA BEER",
+    "maker": "Ａ＆Ｒ(株)",
+    "location": "神奈川県海老名市",
+    "prefecture": "神奈川県",
+    "beerCruiseUrl": "https://www.beer-cruise.net/beer/171004.html",
+    "sourceListUrl": "https://www.beer-cruise.net/beer/Kanto2.html"
+  },
+  {
+    "id": "bc-314",
+    "brand": "Kaisei Handmade Beer Garapago Racing",
+    "brewpub": "Garapago Racing",
+    "maker": "(有)テクノプラン",
+    "location": "神奈川県開成町",
+    "prefecture": "神奈川県",
+    "beerCruiseUrl": "https://www.beer-cruise.net/beer/180606.html",
+    "sourceListUrl": "https://www.beer-cruise.net/beer/Kanto2.html"
+  },
+  {
+    "id": "bc-293",
+    "brand": "ヨロッコビール",
+    "brewpub": "タップルームなし",
+    "maker": "(株)ヨロッコビール",
+    "location": "神奈川県鎌倉市",
+    "prefecture": "神奈川県",
+    "beerCruiseUrl": "https://www.beer-cruise.net/beer/200227.html",
+    "sourceListUrl": "https://www.beer-cruise.net/beer/Kanto2.html"
+  },
+  {
+    "id": "bc-291",
+    "brand": "鎌倉ビール 江の島ビール 葉山ビール 横須賀ビール",
+    "brewpub": "タップルームなし",
+    "maker": "鎌倉ビール醸造(株)",
+    "location": "神奈川県鎌倉市",
+    "prefecture": "神奈川県",
+    "beerCruiseUrl": "https://www.beer-cruise.net/beer/020811_2.html",
+    "sourceListUrl": "https://www.beer-cruise.net/beer/Kanto2.html"
+  },
+  {
+    "id": "bc-292",
+    "brand": "鎌倉雪ノ下ビール醸造所",
+    "brewpub": "鎌倉雪ノ下ローストビーフ本店",
+    "maker": "ﾜｰﾙﾄﾞﾘｶｰｲﾝﾎﾟｰﾀｰｽﾞ(株)",
+    "location": "神奈川県鎌倉市",
+    "prefecture": "神奈川県",
+    "beerCruiseUrl": "https://www.beer-cruise.net/beer/Kanto2.html",
+    "sourceListUrl": "https://www.beer-cruise.net/beer/Kanto2.html"
+  },
+  {
+    "id": "bc-301",
+    "brand": "BarbaricWorks",
+    "brewpub": "Ｇｏｌｄ'ｎＢｕｂ",
+    "maker": "(株)安藤商店",
+    "location": "神奈川県茅ヶ崎市",
+    "prefecture": "神奈川県",
+    "beerCruiseUrl": "https://www.beer-cruise.net/beer/161019.html",
+    "sourceListUrl": "https://www.beer-cruise.net/beer/Kanto2.html"
+  },
+  {
+    "id": "bc-303",
+    "brand": "Chigasaki Brewery",
+    "brewpub": "レストラン｢サーフライダー号｣",
+    "maker": "亀井工業ﾎｰﾙﾃﾞｨﾝｸﾞｽ(株)",
+    "location": "神奈川県茅ヶ崎市",
+    "prefecture": "神奈川県",
+    "beerCruiseUrl": "https://www.beer-cruise.net/beer/250925.html",
+    "sourceListUrl": "https://www.beer-cruise.net/beer/Kanto2.html"
+  },
+  {
+    "id": "bc-299",
+    "brand": "Green Beach Brewery",
+    "brewpub": "松浪BASE",
+    "maker": "Green Beach Brewery",
+    "location": "神奈川県茅ヶ崎市",
+    "prefecture": "神奈川県",
+    "beerCruiseUrl": "https://www.beer-cruise.net/beer/Kanto2.html",
+    "sourceListUrl": "https://www.beer-cruise.net/beer/Kanto2.html"
+  },
+  {
+    "id": "bc-298",
+    "brand": "MacKenDy",
+    "brewpub": "MacKenDy",
+    "maker": "MacKenDy",
+    "location": "神奈川県茅ヶ崎市",
+    "prefecture": "神奈川県",
+    "beerCruiseUrl": "https://www.beer-cruise.net/beer/190829.html",
+    "sourceListUrl": "https://www.beer-cruise.net/beer/Kanto2.html"
+  },
+  {
+    "id": "bc-304",
+    "brand": "Passific brewing",
+    "brewpub": "Pepown",
+    "maker": "(同)パシフィック",
+    "location": "神奈川県茅ヶ崎市",
+    "prefecture": "神奈川県",
+    "beerCruiseUrl": "https://www.beer-cruise.net/beer/250101.html",
+    "sourceListUrl": "https://www.beer-cruise.net/beer/Kanto2.html"
+  },
+  {
+    "id": "bc-302",
+    "brand": "湘南ビール",
+    "brewpub": "MOKICHI TRATTORIA",
+    "maker": "熊澤酒造(株)",
+    "location": "神奈川県茅ヶ崎市",
+    "prefecture": "神奈川県",
+    "beerCruiseUrl": "https://www.beer-cruise.net/beer/971121.html",
+    "sourceListUrl": "https://www.beer-cruise.net/beer/Kanto2.html"
+  },
+  {
+    "id": "bc-300",
+    "brand": "辻ブルーイング",
+    "brewpub": "辻ブルーイングタップルーム",
+    "maker": "辻ブルーイング",
+    "location": "神奈川県茅ヶ崎市",
+    "prefecture": "神奈川県",
+    "beerCruiseUrl": "https://www.beer-cruise.net/beer/240310.html",
+    "sourceListUrl": "https://www.beer-cruise.net/beer/Kanto2.html"
+  },
+  {
+    "id": "bc-311",
+    "brand": "さがみビール",
+    "brewpub": "セルバジーナ",
+    "maker": "黄金井酒造(株)",
+    "location": "神奈川県厚木市",
+    "prefecture": "神奈川県",
+    "beerCruiseUrl": "https://www.beer-cruise.net/beer/000819.html",
+    "sourceListUrl": "https://www.beer-cruise.net/beer/Kanto2.html"
+  },
+  {
+    "id": "bc-309",
+    "brand": "サンクトガーレン",
+    "brewpub": "タップルームなし",
+    "maker": "サンクトガーレン(有)",
+    "location": "神奈川県厚木市",
+    "prefecture": "神奈川県",
+    "beerCruiseUrl": "https://www.beer-cruise.net/beer/021230.html",
+    "sourceListUrl": "https://www.beer-cruise.net/beer/Kanto2.html"
+  },
+  {
+    "id": "bc-310",
+    "brand": "厚木ビール丹沢のしずく",
+    "brewpub": "ランビック",
+    "maker": "厚木ビール(株)",
+    "location": "神奈川県厚木市",
+    "prefecture": "神奈川県",
+    "beerCruiseUrl": "https://www.beer-cruise.net/beer/990313.html",
+    "sourceListUrl": "https://www.beer-cruise.net/beer/Kanto2.html"
+  },
+  {
+    "id": "bc-288",
+    "brand": "MIURA brewery",
+    "brewpub": "MIURA brewery",
+    "maker": "(株)クラフトガレージ",
+    "location": "神奈川県三浦市",
+    "prefecture": "神奈川県",
+    "beerCruiseUrl": "https://www.beer-cruise.net/beer/251009.html",
+    "sourceListUrl": "https://www.beer-cruise.net/beer/Kanto2.html"
+  },
+  {
+    "id": "bc-316",
+    "brand": "Lasso Brewing",
+    "brewpub": "Rodeo Dog Beer Stand",
+    "maker": "カウボーイクラフト(株)",
+    "location": "神奈川県小田原市",
+    "prefecture": "神奈川県",
+    "beerCruiseUrl": "https://www.beer-cruise.net/beer/Kanto2.html",
+    "sourceListUrl": "https://www.beer-cruise.net/beer/Kanto2.html"
+  },
+  {
+    "id": "bc-317",
+    "brand": "小田原ｶﾞﾚｰｼﾞﾌﾞﾘｭｰｲﾝｸﾞ",
+    "brewpub": "小田原ガレージブリューイング",
+    "maker": "小田原ｶﾞﾚｰｼﾞﾌﾞﾘｭｰｲﾝｸﾞ",
+    "location": "神奈川県小田原市",
+    "prefecture": "神奈川県",
+    "beerCruiseUrl": "https://www.beer-cruise.net/beer/Kanto2.html",
+    "sourceListUrl": "https://www.beer-cruise.net/beer/Kanto2.html"
+  },
+  {
+    "id": "bc-318",
+    "brand": "箱根ビール",
+    "brewpub": "えれんなごっそ",
+    "maker": "(株)小田原鈴廣",
+    "location": "神奈川県小田原市",
+    "prefecture": "神奈川県",
+    "beerCruiseUrl": "https://www.beer-cruise.net/beer/981205.html",
+    "sourceListUrl": "https://www.beer-cruise.net/beer/Kanto2.html"
+  },
+  {
+    "id": "bc-313",
+    "brand": "足柄ハッピーモルト",
+    "brewpub": "ワインアンドフーズヨコヤマ",
+    "maker": "(有)足柄地ビール",
+    "location": "神奈川県松田町",
+    "prefecture": "神奈川県",
+    "beerCruiseUrl": "https://www.beer-cruise.net/beer/101201.html",
+    "sourceListUrl": "https://www.beer-cruise.net/beer/Kanto2.html"
+  },
+  {
+    "id": "bc-257",
+    "brand": "Cafe CLUB KEY",
+    "brewpub": "Cafe CLUB KEY",
+    "maker": "(株)KEY CORPORATION",
+    "location": "神奈川県川崎市幸区",
+    "prefecture": "神奈川県",
+    "beerCruiseUrl": "https://www.beer-cruise.net/beer/180525.html",
+    "sourceListUrl": "https://www.beer-cruise.net/beer/Kanto2.html"
+  },
+  {
+    "id": "bc-260",
+    "brand": "ブリマー・ブルーイング",
+    "brewpub": "タップルームなし",
+    "maker": "ブリマー・ブルーイング(株)",
+    "location": "神奈川県川崎市高津区",
+    "prefecture": "神奈川県",
+    "beerCruiseUrl": "https://www.beer-cruise.net/beer/120505.html",
+    "sourceListUrl": "https://www.beer-cruise.net/beer/Kanto2.html"
+  },
+  {
+    "id": "bc-259",
+    "brand": "みぞのくち醸造所",
+    "brewpub": "みぞのくち醸造所",
+    "maker": "(株)ローカルダイニング",
+    "location": "神奈川県川崎市高津区",
+    "prefecture": "神奈川県",
+    "beerCruiseUrl": "https://www.beer-cruise.net/beer/231120.html",
+    "sourceListUrl": "https://www.beer-cruise.net/beer/Kanto2.html"
+  },
+  {
+    "id": "bc-254",
+    "brand": "T.T BREWERY",
+    "brewpub": "T.T BREWERY 川崎ﾗﾁｯﾀﾃﾞｯﾗ ﾁﾈﾁｯﾀ通り店",
+    "maker": "(株)リープ",
+    "location": "神奈川県川崎市川崎区",
+    "prefecture": "神奈川県",
+    "beerCruiseUrl": "https://www.beer-cruise.net/beer/150501.html",
+    "sourceListUrl": "https://www.beer-cruise.net/beer/Kanto2.html"
+  },
+  {
+    "id": "bc-256",
+    "brand": "ＴＫＢｒｅｗｉｎｇ",
+    "brewpub": "ＴＫＢｒｅｗｉｎｇ直売所",
+    "maker": "ＴＫＢｒｅｗｉｎｇ(株)",
+    "location": "神奈川県川崎市川崎区",
+    "prefecture": "神奈川県",
+    "beerCruiseUrl": "https://www.beer-cruise.net/beer/171212.html",
+    "sourceListUrl": "https://www.beer-cruise.net/beer/Kanto2.html"
+  },
+  {
+    "id": "bc-255",
+    "brand": "東海道ＢＥＥＲ",
+    "brewpub": "東海道BEER川崎宿工場",
+    "maker": "(株)岩田屋",
+    "location": "神奈川県川崎市川崎区",
+    "prefecture": "神奈川県",
+    "beerCruiseUrl": "https://www.beer-cruise.net/beer/190116.html",
+    "sourceListUrl": "https://www.beer-cruise.net/beer/Kanto2.html"
+  },
+  {
+    "id": "bc-263",
+    "brand": "BEERDOCK 旧 Beerboy 稲田堤麦酒醸造所",
+    "brewpub": "BEERDOCK INADAZUTSUMI 旧 Beerboy 稲田堤麦酒醸造所",
+    "maker": "(株)Beerboy",
+    "location": "神奈川県川崎市多摩区",
+    "prefecture": "神奈川県",
+    "beerCruiseUrl": "https://www.beer-cruise.net/beer/Kanto2.html",
+    "sourceListUrl": "https://www.beer-cruise.net/beer/Kanto2.html"
+  },
+  {
+    "id": "bc-261",
+    "brand": "OVER REV Brewing",
+    "brewpub": "Monkey Wrench",
+    "maker": "OVER REV Brewing",
+    "location": "神奈川県川崎市多摩区",
+    "prefecture": "神奈川県",
+    "beerCruiseUrl": "https://www.beer-cruise.net/beer/Kanto2.html",
+    "sourceListUrl": "https://www.beer-cruise.net/beer/Kanto2.html"
+  },
+  {
+    "id": "bc-262",
+    "brand": "クラフトビア ムーンライト",
+    "brewpub": "ブルーパブムーンライト",
+    "maker": "ムーンライト(株)",
+    "location": "神奈川県川崎市多摩区",
+    "prefecture": "神奈川県",
+    "beerCruiseUrl": "https://www.beer-cruise.net/beer/250612.html",
+    "sourceListUrl": "https://www.beer-cruise.net/beer/Kanto2.html"
+  },
+  {
+    "id": "bc-258",
+    "brand": "CAGHIYA BREWERY",
+    "brewpub": "CAGHIYA TAP ROOM",
+    "maker": "(株)KEY CORPORATION",
+    "location": "神奈川県川崎市中原区",
+    "prefecture": "神奈川県",
+    "beerCruiseUrl": "https://www.beer-cruise.net/beer/Kanto2.html",
+    "sourceListUrl": "https://www.beer-cruise.net/beer/Kanto2.html"
+  },
+  {
+    "id": "bc-264",
+    "brand": "ペコラビール",
+    "brewpub": "ペコラビール",
+    "maker": "ペコラビール(同)",
+    "location": "神奈川県川崎市麻生区",
+    "prefecture": "神奈川県",
+    "beerCruiseUrl": "https://www.beer-cruise.net/beer/Kanto2.html",
+    "sourceListUrl": "https://www.beer-cruise.net/beer/Kanto2.html"
+  },
+  {
+    "id": "bc-307",
+    "brand": "Ken'sBrewery",
+    "brewpub": "ケンズブルワリー",
+    "maker": "ケンズブルワリー",
+    "location": "神奈川県相模原市中央区",
+    "prefecture": "神奈川県",
+    "beerCruiseUrl": "https://www.beer-cruise.net/beer/Kanto2.html",
+    "sourceListUrl": "https://www.beer-cruise.net/beer/Kanto2.html"
+  },
+  {
+    "id": "bc-312",
+    "brand": "Jazz Brewing Fujino",
+    "brewpub": "タップルームなし",
+    "maker": "Jazz Brewing Fujino",
+    "location": "神奈川県相模原市緑区",
+    "prefecture": "神奈川県",
+    "beerCruiseUrl": "https://www.beer-cruise.net/beer/180722.html",
+    "sourceListUrl": "https://www.beer-cruise.net/beer/Kanto2.html"
+  },
+  {
+    "id": "bc-320",
+    "brand": "GORA BREWERY",
+    "brewpub": "GORA BREWERY PUBLIC HOUSE",
+    "maker": "(株)ダイニング [3rd place]",
+    "location": "神奈川県湯河原町",
+    "prefecture": "神奈川県",
+    "beerCruiseUrl": "https://www.beer-cruise.net/beer/Kanto2.html",
+    "sourceListUrl": "https://www.beer-cruise.net/beer/Kanto2.html"
+  },
+  {
+    "id": "bc-319",
+    "brand": "HUMANS BEER",
+    "brewpub": "タップルームなし",
+    "maker": "Moonshake Brewing(同)",
+    "location": "神奈川県湯河原町",
+    "prefecture": "神奈川県",
+    "beerCruiseUrl": "https://www.beer-cruise.net/beer/221020.html",
+    "sourceListUrl": "https://www.beer-cruise.net/beer/Kanto2.html"
+  },
+  {
+    "id": "bc-295",
+    "brand": "AMATERASU醸造所",
+    "brewpub": "タップルーム",
+    "maker": "(有)lifeielive",
+    "location": "神奈川県藤沢市",
+    "prefecture": "神奈川県",
+    "beerCruiseUrl": "https://www.beer-cruise.net/beer/Kanto2.html",
+    "sourceListUrl": "https://www.beer-cruise.net/beer/Kanto2.html"
+  },
+  {
+    "id": "bc-296",
+    "brand": "Aura Brewing",
+    "brewpub": "Aura Brewing",
+    "maker": "Aura Brewing",
+    "location": "神奈川県藤沢市",
+    "prefecture": "神奈川県",
+    "beerCruiseUrl": "https://www.beer-cruise.net/beer/Kanto2.html",
+    "sourceListUrl": "https://www.beer-cruise.net/beer/Kanto2.html"
+  },
+  {
+    "id": "bc-297",
+    "brand": "RRAAP BREWERY",
+    "brewpub": "RRAAP BREWERY",
+    "maker": "Aprotodo's(株)",
+    "location": "神奈川県藤沢市",
+    "prefecture": "神奈川県",
+    "beerCruiseUrl": "https://www.beer-cruise.net/beer/Kanto2.html",
+    "sourceListUrl": "https://www.beer-cruise.net/beer/Kanto2.html"
+  },
+  {
+    "id": "bc-294",
+    "brand": "藤沢ビールハウス",
+    "brewpub": "藤沢ビールハウス",
+    "maker": "(株)バイオクロマト",
+    "location": "神奈川県藤沢市",
+    "prefecture": "神奈川県",
+    "beerCruiseUrl": "https://www.beer-cruise.net/beer/Kanto2.html",
+    "sourceListUrl": "https://www.beer-cruise.net/beer/Kanto2.html"
+  },
+  {
+    "id": "bc-315",
+    "brand": "ｱｳｸﾞｽ･ﾌﾞﾘｭｰｱﾝﾄﾞｽﾃｨﾙﾊｳｽ",
+    "brewpub": "タップルームなし",
+    "maker": "(株)ｱｳｸﾞｽ･ﾌﾞﾘｭｰｱﾝﾄﾞｽﾃｨﾙﾊｳｽ",
+    "location": "神奈川県南足柄市",
+    "prefecture": "神奈川県",
+    "beerCruiseUrl": "https://www.beer-cruise.net/beer/Kanto2.html",
+    "sourceListUrl": "https://www.beer-cruise.net/beer/Kanto2.html"
+  },
+  {
+    "id": "bc-321",
+    "brand": "GORA BREWERY",
+    "brewpub": "BEER BAR by GORA BREWERY",
+    "maker": "(株)ダイニング [2nd place]",
+    "location": "神奈川県箱根町",
+    "prefecture": "神奈川県",
+    "beerCruiseUrl": "https://www.beer-cruise.net/beer/250809.html",
+    "sourceListUrl": "https://www.beer-cruise.net/beer/Kanto2.html"
+  },
+  {
+    "id": "bc-322",
+    "brand": "箱根麦酒",
+    "brewpub": "タップルームなし",
+    "maker": "箱根麦酒(同)",
+    "location": "神奈川県箱根町",
+    "prefecture": "神奈川県",
+    "beerCruiseUrl": "https://www.beer-cruise.net/beer/250605.html",
+    "sourceListUrl": "https://www.beer-cruise.net/beer/Kanto2.html"
+  },
+  {
+    "id": "bc-308",
+    "brand": "Yggdrasil Brewing",
+    "brewpub": "Yggdrasil Brewing",
+    "maker": "Yggdrasil Brewing(同)",
+    "location": "神奈川県平塚市",
+    "prefecture": "神奈川県",
+    "beerCruiseUrl": "https://www.beer-cruise.net/beer/190920.html",
+    "sourceListUrl": "https://www.beer-cruise.net/beer/Kanto2.html"
+  },
+  {
+    "id": "bc-290",
+    "brand": "15brewery",
+    "brewpub": "15brewery",
+    "maker": "フィフティーンブルワリー",
+    "location": "神奈川県葉山町",
+    "prefecture": "神奈川県",
+    "beerCruiseUrl": "https://www.beer-cruise.net/beer/160202.html",
+    "sourceListUrl": "https://www.beer-cruise.net/beer/Kanto2.html"
+  },
+  {
+    "id": "bc-289",
+    "brand": "Brewstars Yacht Club Hayama Brewing",
+    "brewpub": "Brewstars Yacht Club Hayama Brewing",
+    "maker": "Brewstars Yacht Club Hayama Brewing",
+    "location": "神奈川県葉山町",
+    "prefecture": "神奈川県",
+    "beerCruiseUrl": "https://www.beer-cruise.net/beer/Kanto2.html",
+    "sourceListUrl": "https://www.beer-cruise.net/beer/Kanto2.html"
+  },
+  {
+    "id": "bc-95",
+    "brand": "いすみブルワリー",
+    "brewpub": "いすみブルワリー",
+    "maker": "いすみブルワリー",
+    "location": "千葉県いすみ市",
+    "prefecture": "千葉県",
+    "beerCruiseUrl": "https://www.beer-cruise.net/beer/260306.html",
+    "sourceListUrl": "https://www.beer-cruise.net/beer/Kanto.html"
+  },
+  {
+    "id": "bc-126",
+    "brand": "祭醸造",
+    "brewpub": "MATSURI BREWING",
+    "maker": "祭醸造",
+    "location": "千葉県浦安市",
+    "prefecture": "千葉県",
+    "beerCruiseUrl": "https://www.beer-cruise.net/beer/250328.html",
+    "sourceListUrl": "https://www.beer-cruise.net/beer/Kanto.html"
+  },
+  {
+    "id": "bc-127",
+    "brand": "舞浜地ﾋﾞｰﾙ ﾊｰｳﾞｪｽﾄ･ﾑｰﾝ",
+    "brewpub": "ロティズ・ハウス",
+    "maker": "(株)イクスピアリ",
+    "location": "千葉県浦安市",
+    "prefecture": "千葉県",
+    "beerCruiseUrl": "https://www.beer-cruise.net/beer/020810.html",
+    "sourceListUrl": "https://www.beer-cruise.net/beer/Kanto.html"
+  },
+  {
+    "id": "bc-101",
+    "brand": "KAMOGAWA BREWERY",
+    "brewpub": "KAMOGAWA SEA-SIDE BASE",
+    "maker": "(株)正和物産",
+    "location": "千葉県鴨川市",
+    "prefecture": "千葉県",
+    "beerCruiseUrl": "https://www.beer-cruise.net/beer/Kanto.html",
+    "sourceListUrl": "https://www.beer-cruise.net/beer/Kanto.html"
+  },
+  {
+    "id": "bc-107",
+    "brand": "鋸南麦酒",
+    "brewpub": "鋸南町観光物産センター 鋸南麦酒 売店",
+    "maker": "きょなん(株)",
+    "location": "千葉県鋸南町",
+    "prefecture": "千葉県",
+    "beerCruiseUrl": "https://www.beer-cruise.net/beer/181013.html",
+    "sourceListUrl": "https://www.beer-cruise.net/beer/Kanto.html"
+  },
+  {
+    "id": "bc-90",
+    "brand": "Brewery 伊能忠次郎商店",
+    "brewpub": "Brewery and Cheese 伊能忠次郎商店",
+    "maker": "かけわ(株)",
+    "location": "千葉県香取市",
+    "prefecture": "千葉県",
+    "beerCruiseUrl": "https://www.beer-cruise.net/beer/Kanto.html",
+    "sourceListUrl": "https://www.beer-cruise.net/beer/Kanto.html"
+  },
+  {
+    "id": "bc-98",
+    "brand": "ロコビア",
+    "brewpub": "タップルームなし",
+    "maker": "(同)ロコビア",
+    "location": "千葉県佐倉市",
+    "prefecture": "千葉県",
+    "beerCruiseUrl": "https://www.beer-cruise.net/beer/021108.html",
+    "sourceListUrl": "https://www.beer-cruise.net/beer/Kanto.html"
+  },
+  {
+    "id": "bc-91",
+    "brand": "KANKIKU BREWERY 九十九里オーシャンビール 寒菊成田エアポートビール 東京アクアラインビール",
+    "brewpub": "タップルームなし",
+    "maker": "(資)寒菊銘醸",
+    "location": "千葉県山武市",
+    "prefecture": "千葉県",
+    "beerCruiseUrl": "https://www.beer-cruise.net/beer/030426.html",
+    "sourceListUrl": "https://www.beer-cruise.net/beer/Kanto.html"
+  },
+  {
+    "id": "bc-120",
+    "brand": "Arinomi Brewery",
+    "brewpub": "タップルームなし",
+    "maker": "ソメヤビール(株)",
+    "location": "千葉県市川市",
+    "prefecture": "千葉県",
+    "beerCruiseUrl": "https://www.beer-cruise.net/beer/Kanto.html",
+    "sourceListUrl": "https://www.beer-cruise.net/beer/Kanto.html"
+  },
+  {
+    "id": "bc-124",
+    "brand": "市川ビール",
+    "brewpub": "つぎはし",
+    "maker": "(株)丸屋",
+    "location": "千葉県市川市",
+    "prefecture": "千葉県",
+    "beerCruiseUrl": "https://www.beer-cruise.net/beer/Kanto.html",
+    "sourceListUrl": "https://www.beer-cruise.net/beer/Kanto.html"
+  },
+  {
+    "id": "bc-115",
+    "brand": "ならしのクラフトビール むぎのいえ",
+    "brewpub": "ならしのクラフトビール むぎのいえ",
+    "maker": "エルオーエル(株)",
+    "location": "千葉県習志野市",
+    "prefecture": "千葉県",
+    "beerCruiseUrl": "https://www.beer-cruise.net/beer/170616.html",
+    "sourceListUrl": "https://www.beer-cruise.net/beer/Kanto.html"
+  },
+  {
+    "id": "bc-96",
+    "brand": "THRILLER BEACH BREWERY",
+    "brewpub": "THRILLER BEACH BREWERY",
+    "maker": "MAXIMUS．WORK(株)",
+    "location": "千葉県勝浦市",
+    "prefecture": "千葉県",
+    "beerCruiseUrl": "https://www.beer-cruise.net/beer/240919.html",
+    "sourceListUrl": "https://www.beer-cruise.net/beer/Kanto.html"
+  },
+  {
+    "id": "bc-125",
+    "brand": "松戸ビール",
+    "brewpub": "優歩",
+    "maker": "松戸ビール",
+    "location": "千葉県松戸市",
+    "prefecture": "千葉県",
+    "beerCruiseUrl": "https://www.beer-cruise.net/beer/241116.html",
+    "sourceListUrl": "https://www.beer-cruise.net/beer/Kanto.html"
+  },
+  {
+    "id": "bc-123",
+    "brand": "矢切ブルワリー",
+    "brewpub": "タップルームなし",
+    "maker": "矢切ブルワリー(同)",
+    "location": "千葉県松戸市",
+    "prefecture": "千葉県",
+    "beerCruiseUrl": "https://www.beer-cruise.net/beer/Kanto.html",
+    "sourceListUrl": "https://www.beer-cruise.net/beer/Kanto.html"
+  },
+  {
+    "id": "bc-92",
+    "brand": "成田ファーム醸造所",
+    "brewpub": "成田ファームランド",
+    "maker": "(株)成田ファームランド",
+    "location": "千葉県成田市",
+    "prefecture": "千葉県",
+    "beerCruiseUrl": "https://www.beer-cruise.net/beer/211114.html",
+    "sourceListUrl": "https://www.beer-cruise.net/beer/Kanto.html"
+  },
+  {
+    "id": "bc-112",
+    "brand": "けやきビール醸造所",
+    "brewpub": "beernote",
+    "maker": "(株)ブルーリンクシステムズ",
+    "location": "千葉県千葉市稲毛区",
+    "prefecture": "千葉県",
+    "beerCruiseUrl": "https://www.beer-cruise.net/beer/Kanto.html",
+    "sourceListUrl": "https://www.beer-cruise.net/beer/Kanto.html"
+  },
+  {
+    "id": "bc-113",
+    "brand": "千葉稲毛ビール",
+    "brewpub": "いなびや",
+    "maker": "千葉稲毛ビール(同)",
+    "location": "千葉県千葉市稲毛区",
+    "prefecture": "千葉県",
+    "beerCruiseUrl": "https://www.beer-cruise.net/beer/230822.html",
+    "sourceListUrl": "https://www.beer-cruise.net/beer/Kanto.html"
+  },
+  {
+    "id": "bc-109",
+    "brand": "Citta Brewery",
+    "brewpub": "nido kitchen",
+    "maker": "(株)チッタ･ライヴス",
+    "location": "千葉県千葉市中央区",
+    "prefecture": "千葉県",
+    "beerCruiseUrl": "https://www.beer-cruise.net/beer/Kanto.html",
+    "sourceListUrl": "https://www.beer-cruise.net/beer/Kanto.html"
+  },
+  {
+    "id": "bc-108",
+    "brand": "Y.Y.G.FACTORY",
+    "brewpub": "Y.Y.G.FACTORY",
+    "maker": "(株)Y.Y.G. BREWING COMPANY",
+    "location": "千葉県千葉市中央区",
+    "prefecture": "千葉県",
+    "beerCruiseUrl": "https://www.beer-cruise.net/beer/190719.html",
+    "sourceListUrl": "https://www.beer-cruise.net/beer/Kanto.html"
+  },
+  {
+    "id": "bc-111",
+    "brand": "おたこビール",
+    "brewpub": "おたこビール",
+    "maker": "うなう(同)",
+    "location": "千葉県千葉市中央区",
+    "prefecture": "千葉県",
+    "beerCruiseUrl": "https://www.beer-cruise.net/beer/Kanto.html",
+    "sourceListUrl": "https://www.beer-cruise.net/beer/Kanto.html"
+  },
+  {
+    "id": "bc-110",
+    "brand": "潮風ブルーラボブルワリー",
+    "brewpub": "SHIOKAZE BrewStand",
+    "maker": "潮風ブルーラボ(同)",
+    "location": "千葉県千葉市中央区",
+    "prefecture": "千葉県",
+    "beerCruiseUrl": "https://www.beer-cruise.net/beer/Kanto.html",
+    "sourceListUrl": "https://www.beer-cruise.net/beer/Kanto.html"
+  },
+  {
+    "id": "bc-114",
+    "brand": "幕張ブルワリー",
+    "brewpub": "幕張ブルワリー",
+    "maker": "幕張ブルワリー(株)",
+    "location": "千葉県千葉市美浜区",
+    "prefecture": "千葉県",
+    "beerCruiseUrl": "https://www.beer-cruise.net/beer/241025.html",
+    "sourceListUrl": "https://www.beer-cruise.net/beer/Kanto.html"
+  },
+  {
+    "id": "bc-116",
+    "brand": "船橋ビール醸造所",
+    "brewpub": "船橋ビール醸造所",
+    "maker": "(株)プロフード",
+    "location": "千葉県船橋市",
+    "prefecture": "千葉県",
+    "beerCruiseUrl": "https://www.beer-cruise.net/beer/181025.html",
+    "sourceListUrl": "https://www.beer-cruise.net/beer/Kanto.html"
+  },
+  {
+    "id": "bc-100",
+    "brand": "大多喜麦酒",
+    "brewpub": "大多喜麦酒",
+    "maker": "(株)BIG JOY大多喜麦酒工場",
+    "location": "千葉県大多喜町",
+    "prefecture": "千葉県",
+    "beerCruiseUrl": "https://www.beer-cruise.net/beer/Kanto.html",
+    "sourceListUrl": "https://www.beer-cruise.net/beer/Kanto.html"
+  },
+  {
+    "id": "bc-93",
+    "brand": "Rusty Nest Oamishirasato",
+    "brewpub": "Rusty Nest Brewery",
+    "maker": "(株)ぷらすわん",
+    "location": "千葉県大網白里市",
+    "prefecture": "千葉県",
+    "beerCruiseUrl": "https://www.beer-cruise.net/beer/Kanto.html",
+    "sourceListUrl": "https://www.beer-cruise.net/beer/Kanto.html"
+  },
+  {
+    "id": "bc-89",
+    "brand": "銚子ビール",
+    "brewpub": "チョウシグッド･ビールカフェ",
+    "maker": "チョウシ･チアーズ(株)",
+    "location": "千葉県銚子市",
+    "prefecture": "千葉県",
+    "beerCruiseUrl": "https://www.beer-cruise.net/beer/240926.html",
+    "sourceListUrl": "https://www.beer-cruise.net/beer/Kanto.html"
+  },
+  {
+    "id": "bc-97",
+    "brand": "ながら木こりんブルワリー",
+    "brewpub": "タップルームなし",
+    "maker": "(株)ユート",
+    "location": "千葉県長柄町",
+    "prefecture": "千葉県",
+    "beerCruiseUrl": "https://www.beer-cruise.net/beer/Kanto.html",
+    "sourceListUrl": "https://www.beer-cruise.net/beer/Kanto.html"
+  },
+  {
+    "id": "bc-106",
+    "brand": "Boso Craft Brewing",
+    "brewpub": "タップルームなし",
+    "maker": "房総クラフトワークス(株)",
+    "location": "千葉県南房総市",
+    "prefecture": "千葉県",
+    "beerCruiseUrl": "https://www.beer-cruise.net/beer/Kanto.html",
+    "sourceListUrl": "https://www.beer-cruise.net/beer/Kanto.html"
+  },
+  {
+    "id": "bc-105",
+    "brand": "安房麦酒",
+    "brewpub": "タップルームなし",
+    "maker": "(有)農業法人安房麦酒",
+    "location": "千葉県南房総市",
+    "prefecture": "千葉県",
+    "beerCruiseUrl": "https://www.beer-cruise.net/beer/000505.html",
+    "sourceListUrl": "https://www.beer-cruise.net/beer/Kanto.html"
+  },
+  {
+    "id": "bc-104",
+    "brand": "海岸醸造",
+    "brewpub": "Coaster Craft Beer & Kitchen （東京都世田谷区）",
+    "maker": "COASTER(株)",
+    "location": "千葉県南房総市",
+    "prefecture": "千葉県",
+    "beerCruiseUrl": "https://www.beer-cruise.net/beer/240129.html",
+    "sourceListUrl": "https://www.beer-cruise.net/beer/Kanto.html"
+  },
+  {
+    "id": "bc-119",
+    "brand": "RIO BREWING & CO.",
+    "brewpub": "RIO BREWING & CO. BISTRO & GARDEN",
+    "maker": "EVER BREW(株)",
+    "location": "千葉県柏市",
+    "prefecture": "千葉県",
+    "beerCruiseUrl": "https://www.beer-cruise.net/beer/221118.html",
+    "sourceListUrl": "https://www.beer-cruise.net/beer/Kanto.html"
+  },
+  {
+    "id": "bc-117",
+    "brand": "柏ビール",
+    "brewpub": "柏ビール",
+    "maker": "(有)こまいぬ",
+    "location": "千葉県柏市",
+    "prefecture": "千葉県",
+    "beerCruiseUrl": "https://www.beer-cruise.net/beer/180126.html",
+    "sourceListUrl": "https://www.beer-cruise.net/beer/Kanto.html"
+  },
+  {
+    "id": "bc-118",
+    "brand": "柏ブルワリー",
+    "brewpub": "柏ブルワリー本店",
+    "maker": "柏ブルワリー本店",
+    "location": "千葉県柏市",
+    "prefecture": "千葉県",
+    "beerCruiseUrl": "https://www.beer-cruise.net/beer/190412.html",
+    "sourceListUrl": "https://www.beer-cruise.net/beer/Kanto.html"
+  },
+  {
+    "id": "bc-94",
+    "brand": "STERRATO BREWERY",
+    "brewpub": "タップルームなし",
+    "maker": "(株)ビヨンド･ジ･エッジ",
+    "location": "千葉県白子町",
+    "prefecture": "千葉県",
+    "beerCruiseUrl": "https://www.beer-cruise.net/beer/Kanto.html",
+    "sourceListUrl": "https://www.beer-cruise.net/beer/Kanto.html"
+  },
+  {
+    "id": "bc-99",
+    "brand": "八千代ブルワリー",
+    "brewpub": "八千代ブルワリー",
+    "maker": "八千代ブルワリー",
+    "location": "千葉県八千代市",
+    "prefecture": "千葉県",
+    "beerCruiseUrl": "https://www.beer-cruise.net/beer/Kanto.html",
+    "sourceListUrl": "https://www.beer-cruise.net/beer/Kanto.html"
+  },
+  {
+    "id": "bc-103",
+    "brand": "TOKYOベイ麦酒",
+    "brewpub": "タップルームなし",
+    "maker": "(有)ベアーズ",
+    "location": "千葉県木更津市",
+    "prefecture": "千葉県",
+    "beerCruiseUrl": "https://www.beer-cruise.net/beer/220219.html",
+    "sourceListUrl": "https://www.beer-cruise.net/beer/Kanto.html"
+  },
+  {
+    "id": "bc-102",
+    "brand": "ソングバードビール",
+    "brewpub": "タップルームなし",
+    "maker": "(同)ソングバード",
+    "location": "千葉県木更津市",
+    "prefecture": "千葉県",
+    "beerCruiseUrl": "https://www.beer-cruise.net/beer/150415.html",
+    "sourceListUrl": "https://www.beer-cruise.net/beer/Kanto.html"
+  },
+  {
+    "id": "bc-121",
+    "brand": "のろし醸造",
+    "brewpub": "タップルームなし",
+    "maker": "(株)のろし醸造",
+    "location": "千葉県流山市",
+    "prefecture": "千葉県",
+    "beerCruiseUrl": "https://www.beer-cruise.net/beer/Kanto.html",
+    "sourceListUrl": "https://www.beer-cruise.net/beer/Kanto.html"
+  },
+  {
+    "id": "bc-122",
+    "brand": "流山麦酒",
+    "brewpub": "流山麦酒 YASUDAYA BREWERY",
+    "maker": "流山麦酒",
+    "location": "千葉県流山市",
+    "prefecture": "千葉県",
+    "beerCruiseUrl": "https://www.beer-cruise.net/beer/251004.html",
+    "sourceListUrl": "https://www.beer-cruise.net/beer/Kanto.html"
+  },
+  {
+    "id": "bc-248",
+    "brand": "VERTERE",
+    "brewpub": "VERTERE Okutama Taproom",
+    "maker": "VERTERE(同)",
+    "location": "東京都奥多摩町",
+    "prefecture": "東京都",
+    "beerCruiseUrl": "https://www.beer-cruise.net/beer/160206.html",
+    "sourceListUrl": "https://www.beer-cruise.net/beer/Kanto2.html"
+  },
+  {
+    "id": "bc-249",
+    "brand": "VERTERE",
+    "brewpub": "VERTERE各店舗にて販売",
+    "maker": "VERTERE(同) 新工場",
+    "location": "東京都奥多摩町",
+    "prefecture": "東京都",
+    "beerCruiseUrl": "https://www.beer-cruise.net/beer/250705.html",
+    "sourceListUrl": "https://www.beer-cruise.net/beer/Kanto2.html"
+  },
+  {
+    "id": "bc-128",
+    "brand": "きちブルーイング",
+    "brewpub": "きちブルーイング",
+    "maker": "(同)きち",
+    "location": "東京都葛飾区",
+    "prefecture": "東京都",
+    "beerCruiseUrl": "https://www.beer-cruise.net/beer/Kanto2.html",
+    "sourceListUrl": "https://www.beer-cruise.net/beer/Kanto2.html"
+  },
+  {
+    "id": "bc-139",
+    "brand": "1518",
+    "brewpub": "1518",
+    "maker": "サナス(株)",
+    "location": "東京都江東区",
+    "prefecture": "東京都",
+    "beerCruiseUrl": "https://www.beer-cruise.net/beer/Kanto2.html",
+    "sourceListUrl": "https://www.beer-cruise.net/beer/Kanto2.html"
+  },
+  {
+    "id": "bc-141",
+    "brand": "BEER VISTA BREWERY",
+    "brewpub": "BEER VISTA BREWERY",
+    "maker": "(同)Beer Vista Brewery",
+    "location": "東京都江東区",
+    "prefecture": "東京都",
+    "beerCruiseUrl": "https://www.beer-cruise.net/beer/260612.html",
+    "sourceListUrl": "https://www.beer-cruise.net/beer/Kanto2.html"
+  },
+  {
+    "id": "bc-142",
+    "brand": "DAWN BREWS",
+    "brewpub": "タップルームなし",
+    "maker": "(株)newspaper",
+    "location": "東京都江東区",
+    "prefecture": "東京都",
+    "beerCruiseUrl": "https://www.beer-cruise.net/beer/241218.html",
+    "sourceListUrl": "https://www.beer-cruise.net/beer/Kanto2.html"
+  },
+  {
+    "id": "bc-140",
+    "brand": "Folkways Brewing",
+    "brewpub": "Folkways Brewing",
+    "maker": "(株)スティルハウス",
+    "location": "東京都江東区",
+    "prefecture": "東京都",
+    "beerCruiseUrl": "https://www.beer-cruise.net/beer/190712.html",
+    "sourceListUrl": "https://www.beer-cruise.net/beer/Kanto2.html"
+  },
+  {
+    "id": "bc-137",
+    "brand": "ガハハビール",
+    "brewpub": "ガハハビール",
+    "maker": "横十間川酒造",
+    "location": "東京都江東区",
+    "prefecture": "東京都",
+    "beerCruiseUrl": "https://www.beer-cruise.net/beer/170922.html",
+    "sourceListUrl": "https://www.beer-cruise.net/beer/Kanto2.html"
+  },
+  {
+    "id": "bc-136",
+    "brand": "亀戸ビア",
+    "brewpub": "亀戸ビア",
+    "maker": "(同)ＪＫ工房",
+    "location": "東京都江東区",
+    "prefecture": "東京都",
+    "beerCruiseUrl": "https://www.beer-cruise.net/beer/201029_2.html",
+    "sourceListUrl": "https://www.beer-cruise.net/beer/Kanto2.html"
+  },
+  {
+    "id": "bc-138",
+    "brand": "江戸東京ビール",
+    "brewpub": "EDO TOKYO BEER ON TAP",
+    "maker": "プレミアムトレジャース(株)",
+    "location": "東京都江東区",
+    "prefecture": "東京都",
+    "beerCruiseUrl": "https://www.beer-cruise.net/beer/180510.html",
+    "sourceListUrl": "https://www.beer-cruise.net/beer/Kanto2.html"
+  },
+  {
+    "id": "bc-135",
+    "brand": "砂町ブルワリー",
+    "brewpub": "タップルームなし",
+    "maker": "(同)砂町商事",
+    "location": "東京都江東区",
+    "prefecture": "東京都",
+    "beerCruiseUrl": "https://www.beer-cruise.net/beer/Kanto2.html",
+    "sourceListUrl": "https://www.beer-cruise.net/beer/Kanto2.html"
+  },
+  {
+    "id": "bc-177",
+    "brand": "dam brewery",
+    "brewpub": "dam brewery restaurant",
+    "maker": "(株)ﾄﾗﾝｼﾞｯﾄｵﾍﾟﾚｰｼｮﾝｻｰﾋﾞｽ",
+    "location": "東京都港区",
+    "prefecture": "東京都",
+    "beerCruiseUrl": "https://www.beer-cruise.net/beer/241101.html",
+    "sourceListUrl": "https://www.beer-cruise.net/beer/Kanto2.html"
+  },
+  {
+    "id": "bc-176",
+    "brand": "FETISH CLUB TOKYO BrewLab",
+    "brewpub": "FeTISH CLUB TOKYO BREW LAB+BAR",
+    "maker": "ベリーグッド(株)",
+    "location": "東京都港区",
+    "prefecture": "東京都",
+    "beerCruiseUrl": "https://www.beer-cruise.net/beer/Kanto2.html",
+    "sourceListUrl": "https://www.beer-cruise.net/beer/Kanto2.html"
+  },
+  {
+    "id": "bc-179",
+    "brand": "OGAWA COFFEE LABORATORY",
+    "brewpub": "OGAWA COFFEE LABORATORY 高輪 TAP:020",
+    "maker": "小川珈琲(株)",
+    "location": "東京都港区",
+    "prefecture": "東京都",
+    "beerCruiseUrl": "https://www.beer-cruise.net/beer/Kanto2.html",
+    "sourceListUrl": "https://www.beer-cruise.net/beer/Kanto2.html"
+  },
+  {
+    "id": "bc-174",
+    "brand": "Ottotto Brewery",
+    "brewpub": "Ottotto Brewery 浜松町店",
+    "maker": "(株)ラムラ",
+    "location": "東京都港区",
+    "prefecture": "東京都",
+    "beerCruiseUrl": "https://www.beer-cruise.net/beer/180308.html",
+    "sourceListUrl": "https://www.beer-cruise.net/beer/Kanto2.html"
+  },
+  {
+    "id": "bc-180",
+    "brand": "RACINES MICRO BREWERY",
+    "brewpub": "RACINES AOYAMA",
+    "maker": "(株)エイチエム",
+    "location": "東京都港区",
+    "prefecture": "東京都",
+    "beerCruiseUrl": "https://www.beer-cruise.net/beer/241018.html",
+    "sourceListUrl": "https://www.beer-cruise.net/beer/Kanto2.html"
+  },
+  {
+    "id": "bc-173",
+    "brand": "SHIBAURA BREWING",
+    "brewpub": "タップルームなし",
+    "maker": "111(株)",
+    "location": "東京都港区",
+    "prefecture": "東京都",
+    "beerCruiseUrl": "https://www.beer-cruise.net/beer/260130.html",
+    "sourceListUrl": "https://www.beer-cruise.net/beer/Kanto2.html"
+  },
+  {
+    "id": "bc-178",
+    "brand": "YONA YONA TOKYO BREWERY",
+    "brewpub": "YONA YONA TOKYO BREWERY",
+    "maker": "(株)ヤッホーブルーイング",
+    "location": "東京都港区",
+    "prefecture": "東京都",
+    "beerCruiseUrl": "https://www.beer-cruise.net/beer/260424.html",
+    "sourceListUrl": "https://www.beer-cruise.net/beer/Kanto2.html"
+  },
+  {
+    "id": "bc-175",
+    "brand": "國澤麦酒",
+    "brewpub": "KUNISAWA BREWING",
+    "maker": "國澤麦酒(株)",
+    "location": "東京都港区",
+    "prefecture": "東京都",
+    "beerCruiseUrl": "https://www.beer-cruise.net/beer/250118_2.html",
+    "sourceListUrl": "https://www.beer-cruise.net/beer/Kanto2.html"
+  },
+  {
+    "id": "bc-143",
+    "brand": "OKEI BREWERY NIPPORI",
+    "brewpub": "OKEI BREWERY NIPPORI",
+    "maker": "(株)okey",
+    "location": "東京都荒川区",
+    "prefecture": "東京都",
+    "beerCruiseUrl": "https://www.beer-cruise.net/beer/231020.html",
+    "sourceListUrl": "https://www.beer-cruise.net/beer/Kanto2.html"
+  },
+  {
+    "id": "bc-233",
+    "brand": "KUNITACHI BREWERY",
+    "brewpub": "麦酒堂 KASUGAI",
+    "maker": "(株)草舎",
+    "location": "東京都国立市",
+    "prefecture": "東京都",
+    "beerCruiseUrl": "https://www.beer-cruise.net/beer/220616.html",
+    "sourceListUrl": "https://www.beer-cruise.net/beer/Kanto2.html"
+  },
+  {
+    "id": "bc-219",
+    "brand": "喜多見ビール醸造所",
+    "brewpub": "柴田屋酒店 喜多見ビール醸造所",
+    "maker": "(株)SAKE-YA JAPAN",
+    "location": "東京都狛江市",
+    "prefecture": "東京都",
+    "beerCruiseUrl": "https://www.beer-cruise.net/beer/240521.html",
+    "sourceListUrl": "https://www.beer-cruise.net/beer/Kanto2.html"
+  },
+  {
+    "id": "bc-222",
+    "brand": "和泉ブルワリー",
+    "brewpub": "Beer Celler Tokyo",
+    "maker": "和泉ブルワリー(同)",
+    "location": "東京都狛江市",
+    "prefecture": "東京都",
+    "beerCruiseUrl": "https://www.beer-cruise.net/beer/180427.html",
+    "sourceListUrl": "https://www.beer-cruise.net/beer/Kanto2.html"
+  },
+  {
+    "id": "bc-220",
+    "brand": "籠屋ブルワリー",
+    "brewpub": "籠屋 たすく",
+    "maker": "(有)秋元商店",
+    "location": "東京都狛江市",
+    "prefecture": "東京都",
+    "beerCruiseUrl": "https://www.beer-cruise.net/beer/171222.html",
+    "sourceListUrl": "https://www.beer-cruise.net/beer/Kanto2.html"
+  },
+  {
+    "id": "bc-223",
+    "brand": "OGA BREWING COMPANY",
+    "brewpub": "Cafe Hoooop",
+    "maker": "(株)小笠原商店",
+    "location": "東京都三鷹市",
+    "prefecture": "東京都",
+    "beerCruiseUrl": "https://www.beer-cruise.net/beer/190216.html",
+    "sourceListUrl": "https://www.beer-cruise.net/beer/Kanto2.html"
+  },
+  {
+    "id": "bc-194",
+    "brand": "BEER& EBISU BREWERY",
+    "brewpub": "BEER& EBISU BREWERY",
+    "maker": "(株)ﾌﾞﾛｰﾄﾞｴｯｼﾞ･ﾌﾞﾘｭﾜﾘｰ",
+    "location": "東京都渋谷区",
+    "prefecture": "東京都",
+    "beerCruiseUrl": "https://www.beer-cruise.net/beer/Kanto2.html",
+    "sourceListUrl": "https://www.beer-cruise.net/beer/Kanto2.html"
+  },
+  {
+    "id": "bc-199",
+    "brand": "OUR DAYs Brewery",
+    "brewpub": "OUR DAYs Brewery & Club House",
+    "maker": "(有)TOKYO DIRECT OUR DAYs",
+    "location": "東京都渋谷区",
+    "prefecture": "東京都",
+    "beerCruiseUrl": "https://www.beer-cruise.net/beer/Kanto2.html",
+    "sourceListUrl": "https://www.beer-cruise.net/beer/Kanto2.html"
+  },
+  {
+    "id": "bc-195",
+    "brand": "TOKYO BEER LAB",
+    "brewpub": "TOKYO BEER LAB",
+    "maker": "TBL(同)",
+    "location": "東京都渋谷区",
+    "prefecture": "東京都",
+    "beerCruiseUrl": "https://www.beer-cruise.net/beer/Kanto2.html",
+    "sourceListUrl": "https://www.beer-cruise.net/beer/Kanto2.html"
+  },
+  {
+    "id": "bc-197",
+    "brand": "Y.Y.G. brewery & Beer Kitchen",
+    "brewpub": "Y.Y.G. brewery & Beer Kitchen",
+    "maker": "(株)Y.Y.G. BREWING COMPANY",
+    "location": "東京都渋谷区",
+    "prefecture": "東京都",
+    "beerCruiseUrl": "https://www.beer-cruise.net/beer/160406.html",
+    "sourceListUrl": "https://www.beer-cruise.net/beer/Kanto2.html"
+  },
+  {
+    "id": "bc-198",
+    "brand": "スプリングバレーブルワリー",
+    "brewpub": "スプリングバレーブルワリー東京",
+    "maker": "麒麟麦酒(株) ［特別掲載］",
+    "location": "東京都渋谷区",
+    "prefecture": "東京都",
+    "beerCruiseUrl": "https://www.beer-cruise.net/beer/150918.html",
+    "sourceListUrl": "https://www.beer-cruise.net/beer/Kanto2.html"
+  },
+  {
+    "id": "bc-196",
+    "brand": "魚金醸造",
+    "brewpub": "魚金醸造",
+    "maker": "(株)魚金",
+    "location": "東京都渋谷区",
+    "prefecture": "東京都",
+    "beerCruiseUrl": "https://www.beer-cruise.net/beer/190913.html",
+    "sourceListUrl": "https://www.beer-cruise.net/beer/Kanto2.html"
+  },
+  {
+    "id": "bc-253",
+    "brand": "PAPA'S BREWING COMPANY",
+    "brewpub": "PAPA'S ISLAND RESORT HALE",
+    "maker": "(有)パパスダイビングスタジオ",
+    "location": "東京都小笠原村父島",
+    "prefecture": "東京都",
+    "beerCruiseUrl": "https://www.beer-cruise.net/beer/Kanto2.html",
+    "sourceListUrl": "https://www.beer-cruise.net/beer/Kanto2.html"
+  },
+  {
+    "id": "bc-230",
+    "brand": "中央線ビアワークス",
+    "brewpub": "中央線ビアワークス",
+    "maker": "(株)JR中央線ｺﾐｭﾆﾃｨﾃﾞｻﾞｲﾝ",
+    "location": "東京都小金井市",
+    "prefecture": "東京都",
+    "beerCruiseUrl": "https://www.beer-cruise.net/beer/Kanto2.html",
+    "sourceListUrl": "https://www.beer-cruise.net/beer/Kanto2.html"
+  },
+  {
+    "id": "bc-240",
+    "brand": "イサナブルーイング",
+    "brewpub": "イサナブルワリー＆ロースタリー",
+    "maker": "イサナブルーイング(同)",
+    "location": "東京都昭島市",
+    "prefecture": "東京都",
+    "beerCruiseUrl": "https://www.beer-cruise.net/beer/190125.html",
+    "sourceListUrl": "https://www.beer-cruise.net/beer/Kanto2.html"
+  },
+  {
+    "id": "bc-193",
+    "brand": "Honeycomb&Hopworks",
+    "brewpub": "Honeycomb&Hopworks",
+    "maker": "(株)JOLLYproject",
+    "location": "東京都新宿区",
+    "prefecture": "東京都",
+    "beerCruiseUrl": "https://www.beer-cruise.net/beer/Kanto2.html",
+    "sourceListUrl": "https://www.beer-cruise.net/beer/Kanto2.html"
+  },
+  {
+    "id": "bc-191",
+    "brand": "Shinjuku Beer Brewing",
+    "brewpub": "Vector Beer Factory",
+    "maker": "ライナ(株)",
+    "location": "東京都新宿区",
+    "prefecture": "東京都",
+    "beerCruiseUrl": "https://www.beer-cruise.net/beer/160427.html",
+    "sourceListUrl": "https://www.beer-cruise.net/beer/Kanto2.html"
+  },
+  {
+    "id": "bc-192",
+    "brand": "ビール工房新宿",
+    "brewpub": "ビール工房新宿",
+    "maker": "(株)SAKE-YA JAPAN",
+    "location": "東京都新宿区",
+    "prefecture": "東京都",
+    "beerCruiseUrl": "https://www.beer-cruise.net/beer/171228.html",
+    "sourceListUrl": "https://www.beer-cruise.net/beer/Kanto2.html"
+  },
+  {
+    "id": "bc-189",
+    "brand": "新月ビア",
+    "brewpub": "タップルームなし",
+    "maker": "新月ビア醸造",
+    "location": "東京都新宿区",
+    "prefecture": "東京都",
+    "beerCruiseUrl": "https://www.beer-cruise.net/beer/Kanto2.html",
+    "sourceListUrl": "https://www.beer-cruise.net/beer/Kanto2.html"
+  },
+  {
+    "id": "bc-190",
+    "brand": "和びさび",
+    "brewpub": "塊肉居酒屋肉べぇ新宿御苑店",
+    "maker": "和びさび(株)",
+    "location": "東京都新宿区",
+    "prefecture": "東京都",
+    "beerCruiseUrl": "https://www.beer-cruise.net/beer/251128.html",
+    "sourceListUrl": "https://www.beer-cruise.net/beer/Kanto2.html"
+  },
+  {
+    "id": "bc-251",
+    "brand": "日向麦酒",
+    "brewpub": "Hyuga Brewery",
+    "maker": "トウショ酒販(株)",
+    "location": "東京都神津島村",
+    "prefecture": "東京都",
+    "beerCruiseUrl": "https://www.beer-cruise.net/beer/170909.html",
+    "sourceListUrl": "https://www.beer-cruise.net/beer/Kanto2.html"
+  },
+  {
+    "id": "bc-212",
+    "brand": "HONAN LOCAL GOOD BREWERS",
+    "brewpub": "交流スペース",
+    "maker": "一般社団法人ビーンズ",
+    "location": "東京都杉並区",
+    "prefecture": "東京都",
+    "beerCruiseUrl": "https://www.beer-cruise.net/beer/250228.html",
+    "sourceListUrl": "https://www.beer-cruise.net/beer/Kanto2.html"
+  },
+  {
+    "id": "bc-216",
+    "brand": "Mountain River Brewery",
+    "brewpub": "タップルームなし",
+    "maker": "(同)ウッディ",
+    "location": "東京都杉並区",
+    "prefecture": "東京都",
+    "beerCruiseUrl": "https://www.beer-cruise.net/beer/190215.html",
+    "sourceListUrl": "https://www.beer-cruise.net/beer/Kanto2.html"
+  },
+  {
+    "id": "bc-214",
+    "brand": "Novel Craft Brewing",
+    "brewpub": "reverb",
+    "maker": "(株)ドリオラ",
+    "location": "東京都杉並区",
+    "prefecture": "東京都",
+    "beerCruiseUrl": "https://www.beer-cruise.net/beer/Kanto2.html",
+    "sourceListUrl": "https://www.beer-cruise.net/beer/Kanto2.html"
+  },
+  {
+    "id": "bc-213",
+    "brand": "高円寺麦酒工房",
+    "brewpub": "高円寺麦酒工房",
+    "maker": "(株)SAKE-YA JAPAN",
+    "location": "東京都杉並区",
+    "prefecture": "東京都",
+    "beerCruiseUrl": "https://www.beer-cruise.net/beer/110216.html",
+    "sourceListUrl": "https://www.beer-cruise.net/beer/Kanto2.html"
+  },
+  {
+    "id": "bc-215",
+    "brand": "柴田屋酒店 西荻",
+    "brewpub": "柴田屋酒店 西荻",
+    "maker": "(株)SAKE-YA JAPAN",
+    "location": "東京都杉並区",
+    "prefecture": "東京都",
+    "beerCruiseUrl": "https://www.beer-cruise.net/beer/230125.html",
+    "sourceListUrl": "https://www.beer-cruise.net/beer/Kanto2.html"
+  },
+  {
+    "id": "bc-205",
+    "brand": "After School Brewery",
+    "brewpub": "After School Brewery",
+    "maker": "三宿ビール(同)",
+    "location": "東京都世田谷区",
+    "prefecture": "東京都",
+    "beerCruiseUrl": "https://www.beer-cruise.net/beer/Kanto2.html",
+    "sourceListUrl": "https://www.beer-cruise.net/beer/Kanto2.html"
+  },
+  {
+    "id": "bc-206",
+    "brand": "CANON BREWING",
+    "brewpub": "CANON BREWING",
+    "maker": "カノンブルーイング",
+    "location": "東京都世田谷区",
+    "prefecture": "東京都",
+    "beerCruiseUrl": "https://www.beer-cruise.net/beer/260529.html",
+    "sourceListUrl": "https://www.beer-cruise.net/beer/Kanto2.html"
+  },
+  {
+    "id": "bc-207",
+    "brand": "Logram Brewing",
+    "brewpub": "タップルームなし",
+    "maker": "(同)Logram Brewing",
+    "location": "東京都世田谷区",
+    "prefecture": "東京都",
+    "beerCruiseUrl": "https://www.beer-cruise.net/beer/Kanto2.html",
+    "sourceListUrl": "https://www.beer-cruise.net/beer/Kanto2.html"
+  },
+  {
+    "id": "bc-209",
+    "brand": "ふたこビール",
+    "brewpub": "ふたこビール瀬田醸造所 ＆Unagiya Taproom",
+    "maker": "(株)ふたこ麦麦公社",
+    "location": "東京都世田谷区",
+    "prefecture": "東京都",
+    "beerCruiseUrl": "https://www.beer-cruise.net/beer/220128_2.html",
+    "sourceListUrl": "https://www.beer-cruise.net/beer/Kanto2.html"
+  },
+  {
+    "id": "bc-210",
+    "brand": "ふたこビール",
+    "brewpub": "ふたこビール醸造所",
+    "maker": "(株)ふたこ麦麦公社",
+    "location": "東京都世田谷区",
+    "prefecture": "東京都",
+    "beerCruiseUrl": "https://www.beer-cruise.net/beer/220128.html",
+    "sourceListUrl": "https://www.beer-cruise.net/beer/Kanto2.html"
+  },
+  {
+    "id": "bc-208",
+    "brand": "後藤醸造",
+    "brewpub": "後藤醸造",
+    "maker": "後藤醸造",
+    "location": "東京都世田谷区",
+    "prefecture": "東京都",
+    "beerCruiseUrl": "https://www.beer-cruise.net/beer/171006.html",
+    "sourceListUrl": "https://www.beer-cruise.net/beer/Kanto2.html"
+  },
+  {
+    "id": "bc-211",
+    "brand": "祖師ヶ谷ビール工房",
+    "brewpub": "祖師ヶ谷ビール工房",
+    "maker": "(株)SAKE-YA JAPAN",
+    "location": "東京都世田谷区",
+    "prefecture": "東京都",
+    "beerCruiseUrl": "https://www.beer-cruise.net/beer/Kanto2.html",
+    "sourceListUrl": "https://www.beer-cruise.net/beer/Kanto2.html"
+  },
+  {
+    "id": "bc-225",
+    "brand": "West Tokyo Beer",
+    "brewpub": "21BrewCave",
+    "maker": "West Tokyo Brewing(同)",
+    "location": "東京都西東京市",
+    "prefecture": "東京都",
+    "beerCruiseUrl": "https://www.beer-cruise.net/beer/Kanto2.html",
+    "sourceListUrl": "https://www.beer-cruise.net/beer/Kanto2.html"
+  },
+  {
+    "id": "bc-244",
+    "brand": "VEPAR",
+    "brewpub": "タップルームなし",
+    "maker": "VEPAR",
+    "location": "東京都青梅市",
+    "prefecture": "東京都",
+    "beerCruiseUrl": "https://www.beer-cruise.net/beer/Kanto2.html",
+    "sourceListUrl": "https://www.beer-cruise.net/beer/Kanto2.html"
+  },
+  {
+    "id": "bc-159",
+    "brand": "Anchor Point Beer",
+    "brewpub": "Anchor Point",
+    "maker": "(株)きちり",
+    "location": "東京都千代田区",
+    "prefecture": "東京都",
+    "beerCruiseUrl": "https://www.beer-cruise.net/beer/160912.html",
+    "sourceListUrl": "https://www.beer-cruise.net/beer/Kanto2.html"
+  },
+  {
+    "id": "bc-158",
+    "brand": "魚金醸造",
+    "brewpub": "魚金醸造スタンド",
+    "maker": "(株)魚金",
+    "location": "東京都千代田区",
+    "prefecture": "東京都",
+    "beerCruiseUrl": "https://www.beer-cruise.net/beer/201105.html",
+    "sourceListUrl": "https://www.beer-cruise.net/beer/Kanto2.html"
+  },
+  {
+    "id": "bc-130",
+    "brand": "あだちブルワリー",
+    "brewpub": "タップルームなし",
+    "maker": "あだちブルワリー(株)",
+    "location": "東京都足立区",
+    "prefecture": "東京都",
+    "beerCruiseUrl": "https://www.beer-cruise.net/beer/240404.html",
+    "sourceListUrl": "https://www.beer-cruise.net/beer/Kanto2.html"
+  },
+  {
+    "id": "bc-129",
+    "brand": "さかづきBrewing",
+    "brewpub": "さかづきBrewing【新店舗】",
+    "maker": "(同)さかづき",
+    "location": "東京都足立区",
+    "prefecture": "東京都",
+    "beerCruiseUrl": "https://www.beer-cruise.net/beer/210908.html",
+    "sourceListUrl": "https://www.beer-cruise.net/beer/Kanto2.html"
+  },
+  {
+    "id": "bc-234",
+    "brand": "Bierernst",
+    "brewpub": "PARLOR Coffee Shop",
+    "maker": "(株)TAMA tumuji WERKS.",
+    "location": "東京都多摩市",
+    "prefecture": "東京都",
+    "beerCruiseUrl": "https://www.beer-cruise.net/beer/Kanto2.html",
+    "sourceListUrl": "https://www.beer-cruise.net/beer/Kanto2.html"
+  },
+  {
+    "id": "bc-150",
+    "brand": "BUZZED LAMB BREWERY",
+    "brewpub": "BUZZED LAMB BREWERY",
+    "maker": "(有)伊勢五本店",
+    "location": "東京都台東区",
+    "prefecture": "東京都",
+    "beerCruiseUrl": "https://www.beer-cruise.net/beer/250530.html",
+    "sourceListUrl": "https://www.beer-cruise.net/beer/Kanto2.html"
+  },
+  {
+    "id": "bc-144",
+    "brand": "PHERMENT BREWING",
+    "brewpub": "PHERMENT BREWING",
+    "maker": "PHERMENT(同)",
+    "location": "東京都台東区",
+    "prefecture": "東京都",
+    "beerCruiseUrl": "https://www.beer-cruise.net/beer/Kanto2.html",
+    "sourceListUrl": "https://www.beer-cruise.net/beer/Kanto2.html"
+  },
+  {
+    "id": "bc-149",
+    "brand": "THIS BREWING",
+    "brewpub": "THIS BREWING",
+    "maker": "(有)タングラム",
+    "location": "東京都台東区",
+    "prefecture": "東京都",
+    "beerCruiseUrl": "https://www.beer-cruise.net/beer/240725.html",
+    "sourceListUrl": "https://www.beer-cruise.net/beer/Kanto2.html"
+  },
+  {
+    "id": "bc-146",
+    "brand": "Vector Brewing 旧 CraftBeerCompany",
+    "brewpub": "Vector Beer、Vector Beer Factory など５店舗",
+    "maker": "ライナ(株)",
+    "location": "東京都台東区",
+    "prefecture": "東京都",
+    "beerCruiseUrl": "https://www.beer-cruise.net/beer/180205.html",
+    "sourceListUrl": "https://www.beer-cruise.net/beer/Kanto2.html"
+  },
+  {
+    "id": "bc-148",
+    "brand": "シノバズブルワリー",
+    "brewpub": "シノバズブルワリー ひつじあいす",
+    "maker": "長岡商事(株)",
+    "location": "東京都台東区",
+    "prefecture": "東京都",
+    "beerCruiseUrl": "https://www.beer-cruise.net/beer/220830.html",
+    "sourceListUrl": "https://www.beer-cruise.net/beer/Kanto2.html"
+  },
+  {
+    "id": "bc-145",
+    "brand": "浅草ビール工房",
+    "brewpub": "浅草ビール工房",
+    "maker": "(株)SAKE-YA JAPAN",
+    "location": "東京都台東区",
+    "prefecture": "東京都",
+    "beerCruiseUrl": "https://www.beer-cruise.net/beer/221014.html",
+    "sourceListUrl": "https://www.beer-cruise.net/beer/Kanto2.html"
+  },
+  {
+    "id": "bc-147",
+    "brand": "東京ブッチャーズ",
+    "brewpub": "東京ブッチャーズ with OKACHI Beer Lab",
+    "maker": "(株)ｴｯｼﾞｵﾌﾞｸﾘﾌ&ｺﾑﾚｲﾄﾞ",
+    "location": "東京都台東区",
+    "prefecture": "東京都",
+    "beerCruiseUrl": "https://www.beer-cruise.net/beer/190614.html",
+    "sourceListUrl": "https://www.beer-cruise.net/beer/Kanto2.html"
+  },
+  {
+    "id": "bc-185",
+    "brand": "HANEDA SKY BREWING",
+    "brewpub": "HANEDA SKY BREWING",
+    "maker": "(株)大鵬",
+    "location": "東京都大田区",
+    "prefecture": "東京都",
+    "beerCruiseUrl": "https://www.beer-cruise.net/beer/221227.html",
+    "sourceListUrl": "https://www.beer-cruise.net/beer/Kanto2.html"
+  },
+  {
+    "id": "bc-186",
+    "brand": "RE.beer",
+    "brewpub": "RE.beer",
+    "maker": "(株)大鵬",
+    "location": "東京都大田区",
+    "prefecture": "東京都",
+    "beerCruiseUrl": "https://www.beer-cruise.net/beer/250821.html",
+    "sourceListUrl": "https://www.beer-cruise.net/beer/Kanto2.html"
+  },
+  {
+    "id": "bc-188",
+    "brand": "UCCIARE Brewing",
+    "brewpub": "UCCIARE",
+    "maker": "バッカ(株)",
+    "location": "東京都大田区",
+    "prefecture": "東京都",
+    "beerCruiseUrl": "https://www.beer-cruise.net/beer/Kanto2.html",
+    "sourceListUrl": "https://www.beer-cruise.net/beer/Kanto2.html"
+  },
+  {
+    "id": "bc-187",
+    "brand": "羽田ブルワリー",
+    "brewpub": "タップルームなし",
+    "maker": "(株)羽田麦酒",
+    "location": "東京都大田区",
+    "prefecture": "東京都",
+    "beerCruiseUrl": "https://www.beer-cruise.net/beer/150118_2.html",
+    "sourceListUrl": "https://www.beer-cruise.net/beer/Kanto2.html"
+  },
+  {
+    "id": "bc-250",
+    "brand": "Habuminato Brewery",
+    "brewpub": "Habuminato Brewery",
+    "maker": "波浮港醸造(株)",
+    "location": "東京都大島町",
+    "prefecture": "東京都",
+    "beerCruiseUrl": "https://www.beer-cruise.net/beer/Kanto2.html",
+    "sourceListUrl": "https://www.beer-cruise.net/beer/Kanto2.html"
+  },
+  {
+    "id": "bc-151",
+    "brand": "２杯目のビール。",
+    "brewpub": "２杯目のビール。",
+    "maker": "(株)ジウ",
+    "location": "東京都中央区",
+    "prefecture": "東京都",
+    "beerCruiseUrl": "https://www.beer-cruise.net/beer/221215.html",
+    "sourceListUrl": "https://www.beer-cruise.net/beer/Kanto2.html"
+  },
+  {
+    "id": "bc-152",
+    "brand": "BALDYS GOOD BEER",
+    "brewpub": "タップルームなし",
+    "maker": "(株)STUDIO275",
+    "location": "東京都中央区",
+    "prefecture": "東京都",
+    "beerCruiseUrl": "https://www.beer-cruise.net/beer/Kanto2.html",
+    "sourceListUrl": "https://www.beer-cruise.net/beer/Kanto2.html"
+  },
+  {
+    "id": "bc-155",
+    "brand": "CRAFTROCK BREWING",
+    "brewpub": "CRAFTROCK BREWPUB &LIVE",
+    "maker": "(株)ステディワークス",
+    "location": "東京都中央区",
+    "prefecture": "東京都",
+    "beerCruiseUrl": "https://www.beer-cruise.net/beer/191025.html",
+    "sourceListUrl": "https://www.beer-cruise.net/beer/Kanto2.html"
+  },
+  {
+    "id": "bc-153",
+    "brand": "HARUMI FLAG BEER",
+    "brewpub": "魚金大食堂HARUMI FLAG",
+    "maker": "(株)魚金",
+    "location": "東京都中央区",
+    "prefecture": "東京都",
+    "beerCruiseUrl": "https://www.beer-cruise.net/beer/260327.html",
+    "sourceListUrl": "https://www.beer-cruise.net/beer/Kanto2.html"
+  },
+  {
+    "id": "bc-157",
+    "brand": "orca brewery 旧 ブリューインバー",
+    "brewpub": "orca 銀座醸造所 旧 BREWIN'BAR 主水 monde",
+    "maker": "(株)ブリューインバー",
+    "location": "東京都中央区",
+    "prefecture": "東京都",
+    "beerCruiseUrl": "https://www.beer-cruise.net/beer/170421.html",
+    "sourceListUrl": "https://www.beer-cruise.net/beer/Kanto2.html"
+  },
+  {
+    "id": "bc-156",
+    "brand": "銀座地ビール",
+    "brewpub": "居酒屋八蛮",
+    "maker": "(有)八蛮",
+    "location": "東京都中央区",
+    "prefecture": "東京都",
+    "beerCruiseUrl": "https://www.beer-cruise.net/beer/101007.html",
+    "sourceListUrl": "https://www.beer-cruise.net/beer/Kanto2.html"
+  },
+  {
+    "id": "bc-154",
+    "brand": "晴海ビール醸造所",
+    "brewpub": "柴田屋酒店晴海",
+    "maker": "(株)SAKE-YA JAPAN",
+    "location": "東京都中央区",
+    "prefecture": "東京都",
+    "beerCruiseUrl": "https://www.beer-cruise.net/beer/260227.html",
+    "sourceListUrl": "https://www.beer-cruise.net/beer/Kanto2.html"
+  },
+  {
+    "id": "bc-203",
+    "brand": "中野ビール工房",
+    "brewpub": "中野ビール工房",
+    "maker": "(株)SAKE-YA JAPAN",
+    "location": "東京都中野区",
+    "prefecture": "東京都",
+    "beerCruiseUrl": "https://www.beer-cruise.net/beer/140611.html",
+    "sourceListUrl": "https://www.beer-cruise.net/beer/Kanto2.html"
+  },
+  {
+    "id": "bc-204",
+    "brand": "麦酒工房ゼロラボ",
+    "brewpub": "タップルームなし",
+    "maker": "(株)SAKE-YA JAPAN",
+    "location": "東京都中野区",
+    "prefecture": "東京都",
+    "beerCruiseUrl": "https://www.beer-cruise.net/beer/191004.html",
+    "sourceListUrl": "https://www.beer-cruise.net/beer/Kanto2.html"
+  },
+  {
+    "id": "bc-235",
+    "brand": "BUSO BREWERY",
+    "brewpub": "武相ブリュワリー町田駅前店",
+    "maker": "(株)武相ブリュワリー",
+    "location": "東京都町田市",
+    "prefecture": "東京都",
+    "beerCruiseUrl": "https://www.beer-cruise.net/beer/Kanto2.html",
+    "sourceListUrl": "https://www.beer-cruise.net/beer/Kanto2.html"
+  },
+  {
+    "id": "bc-221",
+    "brand": "Bread Ale Brewery",
+    "brewpub": "コムギノホシ仙川店",
+    "maker": "(株)ダイユー",
+    "location": "東京都調布市",
+    "prefecture": "東京都",
+    "beerCruiseUrl": "https://www.beer-cruise.net/beer/241204.html",
+    "sourceListUrl": "https://www.beer-cruise.net/beer/Kanto2.html"
+  },
+  {
+    "id": "bc-229",
+    "brand": "Kaiser Chick",
+    "brewpub": "Kaiser Chick",
+    "maker": "(有)ウルソン",
+    "location": "東京都調布市",
+    "prefecture": "東京都",
+    "beerCruiseUrl": "https://www.beer-cruise.net/beer/Kanto2.html",
+    "sourceListUrl": "https://www.beer-cruise.net/beer/Kanto2.html"
+  },
+  {
+    "id": "bc-224",
+    "brand": "St.Robinson",
+    "brewpub": "調布ビアワークス",
+    "maker": "(有)フォレストパンド",
+    "location": "東京都調布市",
+    "prefecture": "東京都",
+    "beerCruiseUrl": "https://www.beer-cruise.net/beer/160115.html",
+    "sourceListUrl": "https://www.beer-cruise.net/beer/Kanto2.html"
+  },
+  {
+    "id": "bc-227",
+    "brand": "TEGAMISHA BREWERY",
+    "brewpub": "TEGAMISHA BREWERY",
+    "maker": "(株)手紙社",
+    "location": "東京都調布市",
+    "prefecture": "東京都",
+    "beerCruiseUrl": "https://www.beer-cruise.net/beer/Kanto2.html",
+    "sourceListUrl": "https://www.beer-cruise.net/beer/Kanto2.html"
+  },
+  {
+    "id": "bc-228",
+    "brand": "赤坂ビール 深大寺ビール 調布びーる 日本橋ビール",
+    "brewpub": "タップルームなし",
+    "maker": "ホッピービバレッジ(株)",
+    "location": "東京都調布市",
+    "prefecture": "東京都",
+    "beerCruiseUrl": "https://www.beer-cruise.net/beer/970910.html",
+    "sourceListUrl": "https://www.beer-cruise.net/beer/Kanto2.html"
+  },
+  {
+    "id": "bc-232",
+    "brand": "Distant Shores Brewing",
+    "brewpub": "タップルームなし",
+    "maker": "Distant Shores Brewing(株)",
+    "location": "東京都東村山市",
+    "prefecture": "東京都",
+    "beerCruiseUrl": "https://www.beer-cruise.net/beer/171214.html",
+    "sourceListUrl": "https://www.beer-cruise.net/beer/Kanto2.html"
+  },
+  {
+    "id": "bc-236",
+    "brand": "10ants Brewing",
+    "brewpub": "BEER BULK J",
+    "maker": "(株)フムルス",
+    "location": "東京都日野市",
+    "prefecture": "東京都",
+    "beerCruiseUrl": "https://www.beer-cruise.net/beer/Kanto2.html",
+    "sourceListUrl": "https://www.beer-cruise.net/beer/Kanto2.html"
+  },
+  {
+    "id": "bc-246",
+    "brand": "CRAFTROCK",
+    "brewpub": "CRAFTROCK TAPROOM",
+    "maker": "(株)CRAFTROCKTAKA36",
+    "location": "東京都八王子市",
+    "prefecture": "東京都",
+    "beerCruiseUrl": "https://www.beer-cruise.net/beer/Kanto2.html",
+    "sourceListUrl": "https://www.beer-cruise.net/beer/Kanto2.html"
+  },
+  {
+    "id": "bc-241",
+    "brand": "OLD BOYS BREWING",
+    "brewpub": "beer&coffee BUBBLE",
+    "maker": "リバティーン(株)",
+    "location": "東京都八王子市",
+    "prefecture": "東京都",
+    "beerCruiseUrl": "https://www.beer-cruise.net/beer/Kanto2.html",
+    "sourceListUrl": "https://www.beer-cruise.net/beer/Kanto2.html"
+  },
+  {
+    "id": "bc-239",
+    "brand": "Shared Brewery",
+    "brewpub": "タップルームなし",
+    "maker": "(株)シェアードブルワリー",
+    "location": "東京都八王子市",
+    "prefecture": "東京都",
+    "beerCruiseUrl": "https://www.beer-cruise.net/beer/171216.html",
+    "sourceListUrl": "https://www.beer-cruise.net/beer/Kanto2.html"
+  },
+  {
+    "id": "bc-245",
+    "brand": "高尾ビール",
+    "brewpub": "KO52 BREWERY & TAPROOM",
+    "maker": "高尾ビール(株)",
+    "location": "東京都八王子市",
+    "prefecture": "東京都",
+    "beerCruiseUrl": "https://www.beer-cruise.net/beer/Kanto2.html",
+    "sourceListUrl": "https://www.beer-cruise.net/beer/Kanto2.html"
+  },
+  {
+    "id": "bc-247",
+    "brand": "高尾ビール",
+    "brewpub": "高尾ビール 恩方ブルワリー＆ボトルショップ",
+    "maker": "高尾ビール(株)",
+    "location": "東京都八王子市",
+    "prefecture": "東京都",
+    "beerCruiseUrl": "https://www.beer-cruise.net/beer/180119.html",
+    "sourceListUrl": "https://www.beer-cruise.net/beer/Kanto2.html"
+  },
+  {
+    "id": "bc-252",
+    "brand": "八丈島麦酒",
+    "brewpub": "タップルームなし",
+    "maker": "八丈島麦酒(株)",
+    "location": "東京都八丈町",
+    "prefecture": "東京都",
+    "beerCruiseUrl": "https://www.beer-cruise.net/beer/Kanto2.html",
+    "sourceListUrl": "https://www.beer-cruise.net/beer/Kanto2.html"
+  },
+  {
+    "id": "bc-172",
+    "brand": "Let's Beer Works",
+    "brewpub": "Let's Beer Works",
+    "maker": "(同)レッツブリュー",
+    "location": "東京都板橋区",
+    "prefecture": "東京都",
+    "beerCruiseUrl": "https://www.beer-cruise.net/beer/Kanto2.html",
+    "sourceListUrl": "https://www.beer-cruise.net/beer/Kanto2.html"
+  },
+  {
+    "id": "bc-170",
+    "brand": "TOKYO ALEWORKS",
+    "brewpub": "Itabashi Brewers Unit",
+    "maker": "スコッチモルト販売(株)",
+    "location": "東京都板橋区",
+    "prefecture": "東京都",
+    "beerCruiseUrl": "https://www.beer-cruise.net/beer/180701.html",
+    "sourceListUrl": "https://www.beer-cruise.net/beer/Kanto2.html"
+  },
+  {
+    "id": "bc-171",
+    "brand": "クランクビール",
+    "brewpub": "クランクブルーイング さかみちタップルーム",
+    "maker": "(株)クランクブルーイング",
+    "location": "東京都板橋区",
+    "prefecture": "東京都",
+    "beerCruiseUrl": "https://www.beer-cruise.net/beer/180622.html",
+    "sourceListUrl": "https://www.beer-cruise.net/beer/Kanto2.html"
+  },
+  {
+    "id": "bc-183",
+    "brand": "Far Yeast Brewing",
+    "brewpub": "Far Yeast Tokyo Brewery & Grill",
+    "maker": "Far Yeast Brewing (株)",
+    "location": "東京都品川区",
+    "prefecture": "東京都",
+    "beerCruiseUrl": "https://www.beer-cruise.net/beer/210409.html",
+    "sourceListUrl": "https://www.beer-cruise.net/beer/Kanto2.html"
+  },
+  {
+    "id": "bc-184",
+    "brand": "イカリ醸造",
+    "brewpub": "旧The Meguro Tavern",
+    "maker": "目黒タバーン(株)",
+    "location": "東京都品川区",
+    "prefecture": "東京都",
+    "beerCruiseUrl": "https://www.beer-cruise.net/beer/140425.html",
+    "sourceListUrl": "https://www.beer-cruise.net/beer/Kanto2.html"
+  },
+  {
+    "id": "bc-181",
+    "brand": "ティー･ワイ･ハーバー",
+    "brewpub": "T.Y. HARBOR",
+    "maker": "(株)ﾀｲｿﾝｽﾞｱﾝﾄﾞｶﾝﾊﾟﾆｰ",
+    "location": "東京都品川区",
+    "prefecture": "東京都",
+    "beerCruiseUrl": "https://www.beer-cruise.net/beer/971128.html",
+    "sourceListUrl": "https://www.beer-cruise.net/beer/Kanto2.html"
+  },
+  {
+    "id": "bc-182",
+    "brand": "デビルクラフトブルワリー",
+    "brewpub": "デビルクラフト 神田店",
+    "maker": "デビルクラフト(株)",
+    "location": "東京都品川区",
+    "prefecture": "東京都",
+    "beerCruiseUrl": "https://www.beer-cruise.net/beer/151102.html",
+    "sourceListUrl": "https://www.beer-cruise.net/beer/Kanto2.html"
+  },
+  {
+    "id": "bc-231",
+    "brand": "スリーアローズ ブルーイング醸造所",
+    "brewpub": "THREE ARROWS BREWING",
+    "maker": "スリーアローズ ブルーイング(株)",
+    "location": "東京都府中市",
+    "prefecture": "東京都",
+    "beerCruiseUrl": "https://www.beer-cruise.net/beer/Kanto2.html",
+    "sourceListUrl": "https://www.beer-cruise.net/beer/Kanto2.html"
+  },
+  {
+    "id": "bc-226",
+    "brand": "２６Ｋブルワリー",
+    "brewpub": "ｏｎｄ",
+    "maker": "(株)スイベルアンドノット",
+    "location": "東京都武蔵野市",
+    "prefecture": "東京都",
+    "beerCruiseUrl": "https://www.beer-cruise.net/beer/180301.html",
+    "sourceListUrl": "https://www.beer-cruise.net/beer/Kanto2.html"
+  },
+  {
+    "id": "bc-243",
+    "brand": "Fat Barley Brewing",
+    "brewpub": "YOKOTA MICRO BREWERY & TAP STAND",
+    "maker": "(株)Fat Barley",
+    "location": "東京都福生市",
+    "prefecture": "東京都",
+    "beerCruiseUrl": "https://www.beer-cruise.net/beer/Kanto2.html",
+    "sourceListUrl": "https://www.beer-cruise.net/beer/Kanto2.html"
+  },
+  {
+    "id": "bc-242",
+    "brand": "多摩の恵",
+    "brewpub": "福生のビール小屋",
+    "maker": "石川酒造(株)",
+    "location": "東京都福生市",
+    "prefecture": "東京都",
+    "beerCruiseUrl": "https://www.beer-cruise.net/beer/011229.html",
+    "sourceListUrl": "https://www.beer-cruise.net/beer/Kanto2.html"
+  },
+  {
+    "id": "bc-160",
+    "brand": "CAMOS BREWERY",
+    "brewpub": "ビアスタンド",
+    "maker": "本郷菊坂町かもす",
+    "location": "東京都文京区",
+    "prefecture": "東京都",
+    "beerCruiseUrl": "https://www.beer-cruise.net/beer/Kanto2.html",
+    "sourceListUrl": "https://www.beer-cruise.net/beer/Kanto2.html"
+  },
+  {
+    "id": "bc-161",
+    "brand": "HINOMOTO BREWING",
+    "brewpub": "日ﾉﾓﾄﾌﾞﾙｰｲﾝｸﾞ&ﾋﾞｱｽﾀﾝﾄﾞ",
+    "maker": "日ノモトブルーイング",
+    "location": "東京都文京区",
+    "prefecture": "東京都",
+    "beerCruiseUrl": "https://www.beer-cruise.net/beer/Kanto2.html",
+    "sourceListUrl": "https://www.beer-cruise.net/beer/Kanto2.html"
+  },
+  {
+    "id": "bc-162",
+    "brand": "カンパイ！ブルーイング",
+    "brewpub": "Grand Zoo",
+    "maker": "(株)グランブルー",
+    "location": "東京都文京区",
+    "prefecture": "東京都",
+    "beerCruiseUrl": "https://www.beer-cruise.net/beer/190705.html",
+    "sourceListUrl": "https://www.beer-cruise.net/beer/Kanto2.html"
+  },
+  {
+    "id": "bc-168",
+    "brand": "CYCAD BREWING 旧Snark Liquidworks",
+    "brewpub": "CYCAD BREWING",
+    "maker": "CYCAD BREWING",
+    "location": "東京都豊島区",
+    "prefecture": "東京都",
+    "beerCruiseUrl": "https://www.beer-cruise.net/beer/190531.html",
+    "sourceListUrl": "https://www.beer-cruise.net/beer/Kanto2.html"
+  },
+  {
+    "id": "bc-167",
+    "brand": "Inkhorn Brewing",
+    "brewpub": "Inkhorn Brewing",
+    "maker": "インクホーンブルーイング(株)",
+    "location": "東京都豊島区",
+    "prefecture": "東京都",
+    "beerCruiseUrl": "https://www.beer-cruise.net/beer/240625.html",
+    "sourceListUrl": "https://www.beer-cruise.net/beer/Kanto2.html"
+  },
+  {
+    "id": "bc-164",
+    "brand": "NAMACHAん Brewing",
+    "brewpub": "Smoke Beer Factory 大塚店",
+    "maker": "(株)ｽﾓｰｸﾋﾞｱﾌｧｸﾄﾘｰ",
+    "location": "東京都豊島区",
+    "prefecture": "東京都",
+    "beerCruiseUrl": "https://www.beer-cruise.net/beer/180601.html",
+    "sourceListUrl": "https://www.beer-cruise.net/beer/Kanto2.html"
+  },
+  {
+    "id": "bc-165",
+    "brand": "NAMACHAん Brewing",
+    "brewpub": "タップルームなし",
+    "maker": "(株)ｽﾓｰｸﾋﾞｱﾌｧｸﾄﾘｰ 第４工場",
+    "location": "東京都豊島区",
+    "prefecture": "東京都",
+    "beerCruiseUrl": "https://www.beer-cruise.net/beer/Kanto2.html",
+    "sourceListUrl": "https://www.beer-cruise.net/beer/Kanto2.html"
+  },
+  {
+    "id": "bc-166",
+    "brand": "NAMACHAん Brewing",
+    "brewpub": "タップルームなし",
+    "maker": "(株)ｽﾓｰｸﾋﾞｱﾌｧｸﾄﾘｰ 第３工場",
+    "location": "東京都豊島区",
+    "prefecture": "東京都",
+    "beerCruiseUrl": "https://www.beer-cruise.net/beer/Kanto2.html",
+    "sourceListUrl": "https://www.beer-cruise.net/beer/Kanto2.html"
+  },
+  {
+    "id": "bc-169",
+    "brand": "NAMACHAん Brewing",
+    "brewpub": "NAMACHAんスタンド椎名町店",
+    "maker": "(株)ｽﾓｰｸﾋﾞｱﾌｧｸﾄﾘｰ 第２工場",
+    "location": "東京都豊島区",
+    "prefecture": "東京都",
+    "beerCruiseUrl": "https://www.beer-cruise.net/beer/250425.html",
+    "sourceListUrl": "https://www.beer-cruise.net/beer/Kanto2.html"
+  },
+  {
+    "id": "bc-163",
+    "brand": "ﾋﾞｱﾌﾟﾗｽﾌﾟﾗｽﾌﾞﾙｰｲﾝｸﾞ 旧 十条すいけんブルワリー",
+    "brewpub": "Ｂｅｅｒ＋＋",
+    "maker": "(株)ビアプラスプラス",
+    "location": "東京都北区",
+    "prefecture": "東京都",
+    "beerCruiseUrl": "https://www.beer-cruise.net/beer/141225.html",
+    "sourceListUrl": "https://www.beer-cruise.net/beer/Kanto2.html"
+  },
+  {
+    "id": "bc-131",
+    "brand": "BATHE YOTSUME BREWERY",
+    "brewpub": "BATHE YOTSUME BREWERY",
+    "maker": "(有)金沢浴場",
+    "location": "東京都墨田区",
+    "prefecture": "東京都",
+    "beerCruiseUrl": "https://www.beer-cruise.net/beer/251026.html",
+    "sourceListUrl": "https://www.beer-cruise.net/beer/Kanto2.html"
+  },
+  {
+    "id": "bc-133",
+    "brand": "ROMEO BREWERY",
+    "brewpub": "ROMEO BREWERY",
+    "maker": "ロメオブルワリー(同)",
+    "location": "東京都墨田区",
+    "prefecture": "東京都",
+    "beerCruiseUrl": "https://www.beer-cruise.net/beer/Kanto2.html",
+    "sourceListUrl": "https://www.beer-cruise.net/beer/Kanto2.html"
+  },
+  {
+    "id": "bc-132",
+    "brand": "宮多麦酒",
+    "brewpub": "Ｍiyata Ｂeer",
+    "maker": "宮多麦酒醸造所",
+    "location": "東京都墨田区",
+    "prefecture": "東京都",
+    "beerCruiseUrl": "https://www.beer-cruise.net/beer/140503_2.html",
+    "sourceListUrl": "https://www.beer-cruise.net/beer/Kanto2.html"
+  },
+  {
+    "id": "bc-134",
+    "brand": "両国麦酒研究所",
+    "brewpub": "麦酒倶楽部 ポパイ",
+    "maker": "(株)シンポ企画",
+    "location": "東京都墨田区",
+    "prefecture": "東京都",
+    "beerCruiseUrl": "https://www.beer-cruise.net/beer/201021.html",
+    "sourceListUrl": "https://www.beer-cruise.net/beer/Kanto2.html"
+  },
+  {
+    "id": "bc-201",
+    "brand": "FIVE TREES",
+    "brewpub": "FIVE TREES",
+    "maker": "(株)トーシンコーポレーション",
+    "location": "東京都目黒区",
+    "prefecture": "東京都",
+    "beerCruiseUrl": "https://www.beer-cruise.net/beer/231228.html",
+    "sourceListUrl": "https://www.beer-cruise.net/beer/Kanto2.html"
+  },
+  {
+    "id": "bc-202",
+    "brand": "RIKRI BREWING",
+    "brewpub": "RIKRI BREWING",
+    "maker": "(株)RIKRI",
+    "location": "東京都目黒区",
+    "prefecture": "東京都",
+    "beerCruiseUrl": "https://www.beer-cruise.net/beer/Kanto2.html",
+    "sourceListUrl": "https://www.beer-cruise.net/beer/Kanto2.html"
+  },
+  {
+    "id": "bc-200",
+    "brand": "マイスターブロイ",
+    "brewpub": "タップルームなし",
+    "maker": "マイスターブロイ(株)",
+    "location": "東京都目黒区",
+    "prefecture": "東京都",
+    "beerCruiseUrl": "https://www.beer-cruise.net/beer/150904.html",
+    "sourceListUrl": "https://www.beer-cruise.net/beer/Kanto2.html"
+  },
+  {
+    "id": "bc-238",
+    "brand": "Sakamichi Brewing",
+    "brewpub": "Sakamichi Brewing",
+    "maker": "坂道ブルイング(同)",
+    "location": "東京都立川市",
+    "prefecture": "東京都",
+    "beerCruiseUrl": "https://www.beer-cruise.net/beer/230405.html",
+    "sourceListUrl": "https://www.beer-cruise.net/beer/Kanto2.html"
+  },
+  {
+    "id": "bc-237",
+    "brand": "TACHIHI BREWERY",
+    "brewpub": "タップルームなし",
+    "maker": "(株)立飛ホスピタリティ マネジメント",
+    "location": "東京都立川市",
+    "prefecture": "東京都",
+    "beerCruiseUrl": "https://www.beer-cruise.net/beer/220707.html",
+    "sourceListUrl": "https://www.beer-cruise.net/beer/Kanto2.html"
+  },
+  {
+    "id": "bc-217",
+    "brand": "Agartha brewing",
+    "brewpub": "Agartha brewing",
+    "maker": "(有)ムデルエンターテイメント",
+    "location": "東京都練馬区",
+    "prefecture": "東京都",
+    "beerCruiseUrl": "https://www.beer-cruise.net/beer/Kanto2.html",
+    "sourceListUrl": "https://www.beer-cruise.net/beer/Kanto2.html"
+  },
+  {
+    "id": "bc-218",
+    "brand": "大泉学園ｸﾗﾌﾄﾋﾞｰﾙ工房",
+    "brewpub": "大泉学園ｸﾗﾌﾄﾋﾞｰﾙ工房",
+    "maker": "(株)リキッド",
+    "location": "東京都練馬区",
+    "prefecture": "東京都",
+    "beerCruiseUrl": "https://www.beer-cruise.net/beer/Kanto2.html",
+    "sourceListUrl": "https://www.beer-cruise.net/beer/Kanto2.html"
+  },
+  {
+    "id": "bc-10",
+    "brand": "SPiCA kunst BiER",
+    "brewpub": "タップルームなし",
+    "maker": "SPiCA kunst BiER",
+    "location": "栃木県宇都宮市",
+    "prefecture": "栃木県",
+    "beerCruiseUrl": "https://www.beer-cruise.net/beer/Kanto.html",
+    "sourceListUrl": "https://www.beer-cruise.net/beer/Kanto.html"
+  },
+  {
+    "id": "bc-12",
+    "brand": "宇都宮ブルワリー",
+    "brewpub": "ＢＬＵＥ ＭＡＧＩＣ",
+    "maker": "宇都宮ブルワリー(株)",
+    "location": "栃木県宇都宮市",
+    "prefecture": "栃木県",
+    "beerCruiseUrl": "https://www.beer-cruise.net/beer/140503.html",
+    "sourceListUrl": "https://www.beer-cruise.net/beer/Kanto.html"
+  },
+  {
+    "id": "bc-8",
+    "brand": "宇都宮雷都麦酒",
+    "brewpub": "ろまんちっく村 地ビールレストラン",
+    "maker": "(株)ﾌｧｰﾏｰｽﾞ･ﾌｫﾚｽﾄ",
+    "location": "栃木県宇都宮市",
+    "prefecture": "栃木県",
+    "beerCruiseUrl": "https://www.beer-cruise.net/beer/110424.html",
+    "sourceListUrl": "https://www.beer-cruise.net/beer/Kanto.html"
+  },
+  {
+    "id": "bc-11",
+    "brand": "栃木マイクロブルワリー",
+    "brewpub": "栃木マイクロブルワリー 醸造所＆ビアカフェ",
+    "maker": "栃木マイクロブルワリー",
+    "location": "栃木県宇都宮市",
+    "prefecture": "栃木県",
+    "beerCruiseUrl": "https://www.beer-cruise.net/beer/110423_2.html",
+    "sourceListUrl": "https://www.beer-cruise.net/beer/Kanto.html"
+  },
+  {
+    "id": "bc-13",
+    "brand": "Mingel Farmhouse beer&bread",
+    "brewpub": "Mingel",
+    "maker": "(同)益子発酵舎",
+    "location": "栃木県益子町",
+    "prefecture": "栃木県",
+    "beerCruiseUrl": "https://www.beer-cruise.net/beer/Kanto.html",
+    "sourceListUrl": "https://www.beer-cruise.net/beer/Kanto.html"
+  },
+  {
+    "id": "bc-14",
+    "brand": "うしとら",
+    "brewpub": "ビアバー うしとら （東京･下北沢）",
+    "maker": "(株)うしとら",
+    "location": "栃木県下野市",
+    "prefecture": "栃木県",
+    "beerCruiseUrl": "https://www.beer-cruise.net/beer/141015.html",
+    "sourceListUrl": "https://www.beer-cruise.net/beer/Kanto.html"
+  },
+  {
+    "id": "bc-9",
+    "brand": "トリイ堂醸造",
+    "brewpub": "トリイ堂醸造所",
+    "maker": "(有)風間総合サービス",
+    "location": "栃木県鹿沼市",
+    "prefecture": "栃木県",
+    "beerCruiseUrl": "https://www.beer-cruise.net/beer/Kanto.html",
+    "sourceListUrl": "https://www.beer-cruise.net/beer/Kanto.html"
+  },
+  {
+    "id": "bc-16",
+    "brand": "８０８ブルワリー",
+    "brewpub": "タップルームなし",
+    "maker": "Ｓｕｎフーズ(株)",
+    "location": "栃木県小山市",
+    "prefecture": "栃木県",
+    "beerCruiseUrl": "https://www.beer-cruise.net/beer/220623.html",
+    "sourceListUrl": "https://www.beer-cruise.net/beer/Kanto.html"
+  },
+  {
+    "id": "bc-17",
+    "brand": "ISHII BREWING",
+    "brewpub": "タップルームなし",
+    "maker": "ISHII BREWING COMPANY",
+    "location": "栃木県足利市",
+    "prefecture": "栃木県",
+    "beerCruiseUrl": "https://www.beer-cruise.net/beer/240430.html",
+    "sourceListUrl": "https://www.beer-cruise.net/beer/Kanto.html"
+  },
+  {
+    "id": "bc-15",
+    "brand": "油伝麦酒",
+    "brewpub": "田楽あぶでん",
+    "maker": "油伝味噌(株)",
+    "location": "栃木県栃木市",
+    "prefecture": "栃木県",
+    "beerCruiseUrl": "https://www.beer-cruise.net/beer/250329.html",
+    "sourceListUrl": "https://www.beer-cruise.net/beer/Kanto.html"
+  },
+  {
+    "id": "bc-4",
+    "brand": "なすですな",
+    "brewpub": "那須ガーデンブルワリー NASU de SUNA",
+    "maker": "那須ボルダー計画(株)",
+    "location": "栃木県那須塩原市",
+    "prefecture": "栃木県",
+    "beerCruiseUrl": "https://www.beer-cruise.net/beer/240215.html",
+    "sourceListUrl": "https://www.beer-cruise.net/beer/Kanto.html"
+  },
+  {
+    "id": "bc-1",
+    "brand": "甘く浮く",
+    "brewpub": "甘く浮く",
+    "maker": "甘く浮く",
+    "location": "栃木県那須塩原市",
+    "prefecture": "栃木県",
+    "beerCruiseUrl": "https://www.beer-cruise.net/beer/230520.html",
+    "sourceListUrl": "https://www.beer-cruise.net/beer/Kanto.html"
+  },
+  {
+    "id": "bc-3",
+    "brand": "エチゴビール",
+    "brewpub": "タップルームなし",
+    "maker": "エチゴビール(株)",
+    "location": "栃木県那須町",
+    "prefecture": "栃木県",
+    "beerCruiseUrl": "https://www.beer-cruise.net/beer/260305.html",
+    "sourceListUrl": "https://www.beer-cruise.net/beer/Kanto.html"
+  },
+  {
+    "id": "bc-2",
+    "brand": "那須高原ビール",
+    "brewpub": "那須高原ビールレストラン",
+    "maker": "那須高原ビール(株)",
+    "location": "栃木県那須町",
+    "prefecture": "栃木県",
+    "beerCruiseUrl": "https://www.beer-cruise.net/beer/110424_2.html",
+    "sourceListUrl": "https://www.beer-cruise.net/beer/Kanto.html"
+  },
+  {
+    "id": "bc-5",
+    "brand": "Ｍｕｒｍｕｒ",
+    "brewpub": "Murmur biiru stand",
+    "maker": "マァマー(株)",
+    "location": "栃木県日光市",
+    "prefecture": "栃木県",
+    "beerCruiseUrl": "https://www.beer-cruise.net/beer/181006.html",
+    "sourceListUrl": "https://www.beer-cruise.net/beer/Kanto.html"
+  },
+  {
+    "id": "bc-7",
+    "brand": "Nikko Brewing",
+    "brewpub": "タップルームなし",
+    "maker": "(株)三本松茶屋",
+    "location": "栃木県日光市",
+    "prefecture": "栃木県",
+    "beerCruiseUrl": "https://www.beer-cruise.net/beer/180602.html",
+    "sourceListUrl": "https://www.beer-cruise.net/beer/Kanto.html"
+  },
+  {
+    "id": "bc-6",
+    "brand": "THE KICHI",
+    "brewpub": "THE KICHI brewery & cafe",
+    "maker": "THE KICHI",
+    "location": "栃木県日光市",
+    "prefecture": "栃木県",
+    "beerCruiseUrl": "https://www.beer-cruise.net/beer/Kanto.html",
+    "sourceListUrl": "https://www.beer-cruise.net/beer/Kanto.html"
+  }
+]
